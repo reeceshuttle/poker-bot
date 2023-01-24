@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
-num_hands = 1000
+num_hands = 500000
 divider = 1
-file_name = 'sharpers.txt'
+file_name = 'gamelog.txt'
 
 A_plus_minus = [0]
 B_plus_minus = [0]

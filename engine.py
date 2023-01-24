@@ -422,9 +422,11 @@ class Game():
             Player(PLAYER_1_NAME, PLAYER_1_PATH),
             Player(PLAYER_2_NAME, PLAYER_2_PATH)
         ]
+        print(f'{PLAYER_1_NAME} vs. {PLAYER_2_NAME}')
         for player in players:
             player.build()
             player.run()
+            print(player.name)
         for round_num in range(1, NUM_ROUNDS + 1):
             self.log.append('')
             self.log.append('Round #' + str(round_num) + STATUS(players))
