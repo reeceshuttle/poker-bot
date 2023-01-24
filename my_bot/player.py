@@ -115,9 +115,12 @@ class Player(Bot):
         
         # ---------- pre-flop strategy ------------
         if street == 0: # if we are pre-flop
-            if self.my_bankroll>(NUM_ROUNDS-self.hand_num+1)*1.5+2: # if win is secured, check fold
+            if self.my_bankroll > (NUM_ROUNDS-self.hand_num+1)*1.5+2: # if win is secured, check fold
                 if FoldAction in legal_actions: return FoldAction()
                 else: return CheckAction()
+            elif self.my_bankroll > -((NUM_ROUNDS-self.hand_num+1)*1.5+2) and self.my_bankroll < -((NUM_ROUNDS-self.hand_num+1)*1.5-8): # if they havent guarenteed win but are almost at threshold, we start shoving
+                if RaiseAction in legal_actions: return RaiseAction(max_raise)
+                else: return CallAction()
             elif my_pip == 1: # in small blind, implement opening ranges
                 return preflop_strategy.OpeningStrategy(game_state, round_state, active)
             elif my_pip == 2 and opp_pip == 2: # they limped, implement limping attack strategy
@@ -130,14 +133,21 @@ class Player(Bot):
 
         # ----------- post-flop strategy ------------
         else:
-            pot_size = 800 - my_stack - opp_stack
-            if self.my_bankroll>(NUM_ROUNDS-self.hand_num+1)*1.5+2:
-                if FoldAction in legal_actions: return FoldAction() # if win is secured, check fold
-                else: return CheckAction()
 
-            elif my_contribution == 400:
+            pot_size = 800 - my_stack - opp_stack
+
+            if my_contribution == 400:
                 return CheckAction()
 
+            elif self.my_bankroll > (NUM_ROUNDS-self.hand_num+1)*1.5+2:
+                if FoldAction in legal_actions: return FoldAction() # if win is secured, check fold
+                else: return CheckAction()
+            
+            elif self.my_bankroll > -((NUM_ROUNDS-self.hand_num+1)*1.5+2) and self.my_bankroll < -((NUM_ROUNDS-self.hand_num+1)*1.5-8): # if they havent guarenteed win but are almost at threshold, we start shoving
+                if RaiseAction in legal_actions: return RaiseAction(max_raise)
+                else: return CallAction()
+
+            
             elif my_pip == 0 and opp_pip == 0: # if you start or they checked to you
                 if active == 1: # means we start betting round
                     return postflop_strategy.FirstToActStrategy(game_state, round_state, active)
