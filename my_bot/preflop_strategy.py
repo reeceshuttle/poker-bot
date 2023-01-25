@@ -95,13 +95,13 @@ def DefenseStrategy(game_state, round_state, active):
 
     over4x_defense_chart = {
             "AAu":3, "AKs":3, "AQs":3, "AJs":2, "ATs":2, "A9s":1, "A8s":1, "A7s":1, "A6s":1, "A5s":1, "A4s":1, "A3s":1, "A2s":1,
-            "AKu":3, "KKu":3, "KQs":2, "KJs":2, "KTs":1, "K9s":1, "K8s":1, "K7s":1, "K6s":1, "K5s":1, "K4s":1, "K3s":1, "K2s":1,
-            "AQu":2, "KQu":2, "QQu":3, "QJs":2, "QTs":1, "Q9s":1, "Q8s":1, "Q7s":1, "Q6s":1, "Q5s":1, "Q4s":0, "Q3s":0, "Q2s":0,
+            "AKu":3, "KKu":3, "KQs":3, "KJs":2, "KTs":1, "K9s":1, "K8s":1, "K7s":1, "K6s":1, "K5s":1, "K4s":1, "K3s":1, "K2s":1,
+            "AQu":3, "KQu":2, "QQu":3, "QJs":2, "QTs":1, "Q9s":1, "Q8s":1, "Q7s":1, "Q6s":1, "Q5s":1, "Q4s":0, "Q3s":0, "Q2s":0,
             "AJu":1, "KJu":1, "QJu":1, "JJu":3, "JTs":1, "J9s":1, "J8s":1, "J7s":1, "J6s":0, "J5s":0, "J4s":0, "J3s":0, "J2s":0,
             "ATu":1, "KTu":1, "QTu":1, "JTu":1, "TTu":3, "T9s":1, "T8s":1, "T7s":1, "T6s":0, "T5s":0, "T4s":0, "T3s":0, "T2s":0,
-            "A9u":1, "K9u":1, "Q9u":1, "J9u":1, "T9u":1, "99u":2, "98s":1, "97s":1, "96s":1, "95s":0, "94s":0, "93s":0, "92s":0,
+            "A9u":1, "K9u":1, "Q9u":1, "J9u":1, "T9u":1, "99u":3, "98s":1, "97s":1, "96s":1, "95s":0, "94s":0, "93s":0, "92s":0,
             "A8u":1, "K8u":1, "Q8u":1, "J8u":0, "T8u":0, "98u":0, "88u":2, "87s":1, "86s":1, "85s":0, "84s":0, "83s":0, "82s":0,
-            "A7u":1, "K7u":1, "Q7u":0, "J7u":0, "T7u":0, "97u":0, "87u":0, "77u":1, "76s":1, "75s":1, "74s":0, "73s":0, "72s":0,
+            "A7u":1, "K7u":1, "Q7u":0, "J7u":0, "T7u":0, "97u":0, "87u":0, "77u":2, "76s":1, "75s":1, "74s":0, "73s":0, "72s":0,
             "A6u":1, "K6u":1, "Q6u":0, "J6u":0, "T6u":0, "96u":0, "86u":0, "76u":0, "66u":1, "65s":1, "64s":0, "63s":0, "62s":0,
             "A5u":1, "K5u":1, "Q5u":0, "J5u":0, "T5u":0, "95u":0, "85u":0, "75u":0, "65u":0, "55u":1, "54s":1, "53s":0, "52s":0,
             "A4u":1, "K4u":0, "Q4u":0, "J4u":0, "T4u":0, "94u":0, "84u":0, "74u":0, "64u":0, "54u":0, "44u":1, "43s":1, "42s":0,
@@ -144,9 +144,10 @@ def DefenseStrategy(game_state, round_state, active):
             return FoldAction()
     elif opp_pip <= 30:
         if over4x_defense_chart[parsed_hand] == 3:
-            return RaiseAction(max_raise)
+            if random.random() < 0.4: return RaiseAction(max_raise)
+            else: return RaiseAction(3*opp_pip)
         elif over4x_defense_chart[parsed_hand] == 2:
-            return RaiseAction(3*opp_pip-1)
+            return RaiseAction(3*opp_pip)
         elif over4x_defense_chart[parsed_hand] == 1:
             return CallAction()
         elif over4x_defense_chart[parsed_hand] == 0:
@@ -203,7 +204,7 @@ def Defend3betStrategy(game_state, round_state, active):
         "AJu":2, "KJu":1, "QJu":1, "JJu":3, "JTs":1, "J9s":1, "J8s":1, "J7s":1, "J6s":0, "J5s":0, "J4s":0, "J3s":0, "J2s":0,
         "ATu":1, "KTu":1, "QTu":1, "JTu":1, "TTu":3, "T9s":1, "T8s":1, "T7s":1, "T6s":0, "T5s":0, "T4s":0, "T3s":0, "T2s":0,
         "A9u":1, "K9u":1, "Q9u":1, "J9u":1, "T9u":1, "99u":3, "98s":1, "97s":1, "96s":1, "95s":0, "94s":0, "93s":0, "92s":0,
-        "A8u":1, "K8u":1, "Q8u":1, "J8u":0, "T8u":0, "98u":0, "88u":3, "87s":1, "86s":1, "85s":0, "84s":0, "83s":0, "82s":0,
+        "A8u":1, "K8u":1, "Q8u":1, "J8u":0, "T8u":0, "98u":0, "88u":2, "87s":1, "86s":1, "85s":0, "84s":0, "83s":0, "82s":0,
         "A7u":1, "K7u":1, "Q7u":0, "J7u":0, "T7u":0, "97u":0, "87u":0, "77u":2, "76s":1, "75s":1, "74s":0, "73s":0, "72s":0,
         "A6u":1, "K6u":1, "Q6u":0, "J6u":0, "T6u":0, "96u":0, "86u":0, "76u":0, "66u":2, "65s":1, "64s":0, "63s":0, "62s":0,
         "A5u":1, "K5u":1, "Q5u":0, "J5u":0, "T5u":0, "95u":0, "85u":0, "75u":0, "65u":0, "55u":1, "54s":1, "53s":0, "52s":0,
@@ -244,7 +245,7 @@ def Defend3betStrategy(game_state, round_state, active):
             if random.random() < 0.05: return RaiseAction(max_raise)
             else: return RaiseAction(int(2.8*opp_pip))
         elif small3bet_defense_chart[parsed_hand] == 2:
-            if random.random() < 0.25: return RaiseAction(int(2.9*opp_pip))
+            if random.random() < 0.2: return RaiseAction(int(2.9*opp_pip))
             else: return CallAction()
         elif small3bet_defense_chart[parsed_hand] == 1:
             return CallAction()
@@ -252,7 +253,6 @@ def Defend3betStrategy(game_state, round_state, active):
             return FoldAction()
 
     elif opp_pip<=30:
-
         if small3bet_defense_chart[parsed_hand] == 3:
             if RaiseAction in legal_actions and random.random() < 0.2: return RaiseAction(max_raise)
             else: return RaiseAction(int(3.1*opp_pip))
