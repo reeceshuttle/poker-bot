@@ -49,6 +49,7 @@ def InitializeOpponentRange(vpip):
 
 # what they give us:
 # my hand:['6c', '7s'], board:['2h', '2c', '9c', 'Qd', '5s']
+# ['6c', '7s','2h', '2c', '9c', 'Qd', '5s']
 
 
 def RankOccuranceCheck(cards):
@@ -71,11 +72,6 @@ def RankOccuranceCheck(cards):
     return ans
 
 
-# import pdb; pdb.set_trace()
-
-
-
-
 def SuitsCheck(cards):
     """
     returns the number of each suit in cards.
@@ -84,6 +80,7 @@ def SuitsCheck(cards):
     for card in cards:
         ans[card[-1]]+=1
     return ans
+
 
 def MaxSuitCount(cards):
     mx = 0
@@ -95,6 +92,13 @@ def MaxSuitCount(cards):
             msuit = suit
     return mx, msuit
 
+
+def FlushDrawCheck(cards):
+    suits = SuitsCheck(cards)
+    ans = {i:0 for i in range(6)}
+    for suit in suits:
+        ans[suits[suit]] += 1
+    return ans
 
 
 def StraightsCheck(cards):
@@ -115,12 +119,97 @@ def StraightsCheck(cards):
     return ans
 
 
+def PairChecker(cards):
+    """
+    checks what pairs you have and returns their ranks.
+    For example, if you have a single top pair, this will return [1].
+    """
+    answers = []
+    ranks = '23456789TJQKA'
+    found = set()
+    non_pairs = []
+    pairs = []
+    for card in cards:
+        if card[0] in found:
+            # pair found
+            pairs.append(card[0]) 
+        else:
+            found.add(card[0])
+    print(pairs)
+    for pair in pairs:
+        ans = 1
+        non_pairs = []
+        for card in cards:
+            if card[0] != pair:
+                non_pairs.append(card[0])
+        for card in non_pairs:
+            if ranks.index(card) > ranks.index(pair):
+                ans += 1
+        answers.append(ans)
+    return answers
+
+
+def MyFlushRank(my_cards, board_cards):
+    """
+    When you have a flush, sees if you contribute to a flush and what contribution you have.
+    For example, it will rank all the suits on the board and you hand and use that to determine the ranks.
+    (will need to accomodate multiple flush possibilities.)
+    nut flush would return [1], unhelpful would return [6+].
+    only returns cards if they play.
+    Example: 
+    >> MyFlushRank(['9c', '7s'], ['2h', 'Tc', 'Jc', 'Qd', '5s', 'Qc', 'Kc', 'Ac'])
+    returns []
+    >> MyFlushRank(['8c', '7s'], ['2h', 'Tc', 'Jc', 'Qd', '5s', 'Qc', 'Kc', '2c'])
+    returns [3]
+    >> MyFlushRank(['8c', '7c'], ['2h', 'Tc', 'Jc', 'Qd', '5s', 'Qc', 'Kc', '2c'])
+    returns [3, 4]
+
+    THIS FUNCTION SHOULD BE USED TO FIND THE MAX AKA IF 1 IS IN THE ANS, WE HAVE NUT FLUSH.
+    DONT READ INTO THE OTHER NUMBERS THAT MUCH.
+    """
+    full_ranks = 'AKQJT98765432'
+    ans = []
+    hand_suits = SuitsCheck(my_cards+board_cards)
+    for suit in hand_suits:
+        ranks = 'AKQJT98765432'
+        if hand_suits[suit] >= 5: # made flush
+            suit_ans = []
+            board_this_suit = []
+            mine_this_suit = []
+            
+            for card in board_cards:
+                if card[1] == suit:
+                    ranks = ranks.replace(card[0], '')
+                    board_this_suit.append(card[0])
+
+            for card in my_cards:
+                if card[1] == suit:
+                    mine_this_suit.append(card[0])
+            hand_plays = False
+            for card in mine_this_suit: # this for loop checks for if my top flush plays
+                if full_ranks.index(card) < ranks.index(card) + 5:
+                    hand_plays = True
+
+            if hand_plays:
+                for card in mine_this_suit:
+                    suit_ans.append(ranks.index(card)+1)
+                ans += suit_ans
+    return ans
+
+            
+# tests:
+# ans1 = MyFlushRank(['6c', '7s'], ['2h', '2c', '9c', 'Qd', '5s', '3c', '7c', 'Ac'])
+# ans2 = MyFlushRank(['9c', '7s'], ['2h', 'Tc', 'Jc', 'Qd', '5s', 'Qc', 'Kc', 'Ac'])
+# ans3 = MyFlushRank(['Tc', '7s'], ['2h', '9c', 'Jc', 'Qd', '5s', 'Qc', 'Kc', 'Ac'])
+# ans4 = MyFlushRank(['8c', '7s'], ['2h', 'Tc', 'Jc', 'Qd', '5s', 'Qc', 'Kc', '2c'])
+
 
 def StraightDrawCheck(cards):
     """
     checks for straight draws, returns number of straight draws found.
     """
     raise NotImplementedError
+
 
 def StraightBoardCheck(cards):
     """
@@ -134,6 +223,7 @@ def FourFlushBoardCheck(cards):
     checks if there is a four flush on the board.
     """
     raise NotImplementedError
+
 
 def FlushBoardCheck(cards):
     """
