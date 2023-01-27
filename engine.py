@@ -418,6 +418,7 @@ class Game():
         print('/_/  /_/___/ /_/   /_/   \\___/_/\\_\\\\__/_/ /_.__/\\___/\\__/___/')
         print()
         print('Starting the Pokerbots engine...')
+        start = time.time()
         players = [
             Player(PLAYER_1_NAME, PLAYER_1_PATH),
             Player(PLAYER_2_NAME, PLAYER_2_PATH)
@@ -434,6 +435,9 @@ class Game():
         self.log.append('Final' + STATUS(players))
         for player in players:
             player.stop()
+        end = time.time()
+        print(f'Hands run:{NUM_ROUNDS}')
+        print(f'Time to run:{end-start}')
         name = GAME_LOG_FILENAME + '.txt'
         print('Writing', name)
         with open(name, 'w') as log_file:
