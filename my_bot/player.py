@@ -147,7 +147,6 @@ class Player(Bot):
                 if RaiseAction in legal_actions: return RaiseAction(max_raise)
                 else: return CallAction()
 
-            
             elif my_pip == 0 and opp_pip == 0: # if you start or they checked to you
                 if active == 1: # means we start betting round
                     return postflop_strategy.FirstToActStrategy(game_state, round_state, active)
@@ -161,16 +160,18 @@ class Player(Bot):
                     return postflop_strategy.BetIntoStrategy(game_state, round_state, active)
             
             elif my_pip > 0 and opp_pip > 0: # I bet and they raised
-                if my_pip*3.5>opp_pip:
-                    return CallAction()
-                else:
-                    if made_hand in ["Straight Flush", "Quads", "Full House"]:
-                        return CallAction()
-                    elif made_hand in ["Flush", "Straight", "Trips", "Two Pair"] and helpers.EvalBoard(game_state, round_state, active)!=made_hand:
-                        return CallAction()
-                    return FoldAction()
-                
-            return CheckAction()
+                return postflop_strategy.IBetTheyRaisedStrategy(game_state, round_state, active)
+                # if my_pip*3.5>opp_pip:
+                #     return CallAction()
+                # else:
+                #     if made_hand in ["Straight Flush", "Quads", "Full House"]:
+                #         return CallAction()
+                #     # for now, use the ICheckedTheyBet strategy? but raise the opp_pips a little bit?
+                #     elif made_hand in ["Flush", "Straight", "Trips", "Two Pair"] and helpers.EvalBoard(game_state, round_state, active)!=made_hand:
+                #         return CallAction()
+                #     return FoldAction()
+            # else:
+            #     return CheckAction()
 
 
 if __name__ == '__main__':
