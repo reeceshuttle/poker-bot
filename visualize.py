@@ -29,7 +29,7 @@ with open(file_name, 'r') as f:
                 break
 
 # making graph:
-plt.title('Performance')
+plt.title('Performance(A is red, B is blue)')
 plt.plot(hand_num, A_plus_minus, 'r')
 plt.plot(hand_num, B_plus_minus, 'b')
 plt.plot(hand_num, guarenteed_win, 'g')
