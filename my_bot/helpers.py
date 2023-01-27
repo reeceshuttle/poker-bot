@@ -1,11 +1,10 @@
-from skeleton.actions import FoldAction, CallAction, CheckAction, RaiseAction
-from skeleton.states import GameState, TerminalState, RoundState
-from skeleton.states import NUM_ROUNDS, STARTING_STACK, BIG_BLIND, SMALL_BLIND
-from skeleton.bot import Bot
-from skeleton.runner import parse_args, run_bot
+# from skeleton.actions import FoldAction, CallAction, CheckAction, RaiseAction
+# from skeleton.states import GameState, TerminalState, RoundState
+# from skeleton.states import NUM_ROUNDS, STARTING_STACK, BIG_BLIND, SMALL_BLIND
+# from skeleton.bot import Bot
+# from skeleton.runner import parse_args, run_bot
 
 import eval7
-import random
 
 ranks = 'AKQJT98765432'
 
@@ -66,7 +65,6 @@ def RankOccuranceCheck(cards):
         stuff[rank] = 0
     for card in cards:
         stuff[card[0]] += 1
-    # return stuff
     for k in stuff:
         ans[stuff[k]] += 1
     return ans
@@ -97,7 +95,10 @@ def FlushDrawCheck(cards):
     suits = SuitsCheck(cards)
     ans = {i:0 for i in range(6)}
     for suit in suits:
-        ans[suits[suit]] += 1
+        if suits[suit] in ans:
+            ans[suits[suit]] += 1
+        else:
+            ans[suits[suit]] = 1
     return ans
 
 
@@ -112,7 +113,6 @@ def StraightsCheck(cards):
     possibilities = 'A23456789TJQKA'
     for i in range(10):
         count = 0
-        print(possibilities[i:i+5])
         for rank in possibilities[i:i+5]:
             count += stuff[rank]
         ans[count] += 1
@@ -135,7 +135,6 @@ def PairChecker(cards):
             pairs.append(card[0]) 
         else:
             found.add(card[0])
-    print(pairs)
     for pair in pairs:
         ans = 1
         non_pairs = []
