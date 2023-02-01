@@ -1,0 +1,11681 @@
+6.176 MIT Pokerbots - A vs B
+
+Round #1, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 6c]
+B dealt [3c Ac]
+A raises to 4
+B calls
+Flop [7d 6h Kd], A (4), B (4)
+B checks
+A checks
+Turn [7d 6h Kd Th], A (4), B (4)
+B checks
+A checks
+River [7d 6h Kd Th 9c], A (4), B (4)
+B checks
+A checks
+A shows [Qs 6c]
+B shows [3c Ac]
+A awarded 4
+B awarded -4
+
+Round #2, B (-4), A (4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 2c]
+A dealt [Ah Jc]
+B raises to 5
+A raises to 15
+B calls
+Flop [8h Kc 6h], B (15), A (15)
+A checks
+B checks
+Turn [8h Kc 6h Jd], B (15), A (15)
+A bets 15
+B folds
+B awarded -15
+A awarded 15
+
+Round #3, A (19), B (-19)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 9d]
+B dealt [Qd 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #4, B (-21), A (21)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Tc]
+A dealt [6d Ts]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #5, A (19), B (-19)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 5h]
+B dealt [Td Kc]
+A raises to 4
+B calls
+Flop [6s Js 7s], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #6, B (-23), A (23)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 5s]
+A dealt [Ts 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #7, A (24), B (-24)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 9c]
+B dealt [6d 7d]
+A raises to 4
+B calls
+Flop [2h Ac 3c], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #8, B (-28), A (28)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Qd]
+A dealt [9c Ts]
+B raises to 5
+A calls
+Flop [Js 8c 4c], B (5), A (5)
+A checks
+B checks
+Turn [Js 8c 4c 6h], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #9, A (33), B (-33)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 5s]
+B dealt [4c 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #10, B (-35), A (35)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Kd]
+A dealt [7s 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #11, A (33), B (-33)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 4h]
+B dealt [Qs 5d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #12, B (-35), A (35)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 3d]
+A dealt [2d 8d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #13, A (33), B (-33)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Td]
+B dealt [4s Th]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #14, B (-35), A (35)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 7s]
+A dealt [2c Qs]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #15, A (33), B (-33)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 9s]
+B dealt [Qd Ac]
+A raises to 4
+B raises to 14
+A calls
+Flop [Qc 7c Jd], A (14), B (14)
+B bets 22
+A calls
+Turn [Qc 7c Jd Jh], A (36), B (36)
+B bets 43
+A folds
+A awarded -36
+B awarded 36
+
+Round #16, B (3), A (-3)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Qc]
+A dealt [9h Kc]
+B raises to 5
+A calls
+Flop [Js 3h 8c], B (5), A (5)
+A checks
+B bets 7
+A folds
+B awarded 5
+A awarded -5
+
+Round #17, A (-8), B (8)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Kh]
+B dealt [Ks 7d]
+A raises to 4
+B calls
+Flop [Kd 7s 6s], A (4), B (4)
+B bets 10
+A calls
+Turn [Kd 7s 6s Qh], A (14), B (14)
+B bets 30
+A calls
+River [Kd 7s 6s Qh Ah], A (44), B (44)
+B bets 90
+A folds
+A awarded -44
+B awarded 44
+
+Round #18, B (52), A (-52)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Kc]
+A dealt [Ad 6d]
+B raises to 5
+A calls
+Flop [4h 8s Js], B (5), A (5)
+A checks
+B checks
+Turn [4h 8s Js 5s], B (5), A (5)
+A checks
+B checks
+River [4h 8s Js 5s 9d], B (5), A (5)
+A checks
+B bets 4
+A folds
+B awarded 5
+A awarded -5
+
+Round #19, A (-57), B (57)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c Kc]
+B dealt [Ac Ad]
+A raises to 4
+B raises to 14
+A calls
+Flop [4c 3d As], A (14), B (14)
+B bets 30
+A folds
+A awarded -14
+B awarded 14
+
+Round #20, B (71), A (-71)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 5h]
+A dealt [8d 5c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #21, A (-73), B (73)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 5s]
+B dealt [3h 3s]
+A raises to 4
+B calls
+Flop [8d 6c Td], A (4), B (4)
+B checks
+A checks
+Turn [8d 6c Td Kd], A (4), B (4)
+B bets 3
+A raises to 17
+B folds
+A awarded 7
+B awarded -7
+
+Round #22, B (66), A (-66)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c Kd]
+A dealt [6h Ts]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #23, A (-68), B (68)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 8h]
+B dealt [4c Jd]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #24, B (66), A (-66)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 4h]
+A dealt [Jh 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #25, A (-65), B (65)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 3s]
+B dealt [5h Qh]
+A raises to 6
+B raises to 10
+A calls
+Flop [Qs Tc 4h], A (10), B (10)
+B bets 22
+A calls
+Turn [Qs Tc 4h 8s], A (32), B (32)
+B bets 66
+A folds
+A awarded -32
+B awarded 32
+
+Round #26, B (97), A (-97)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 9d]
+A dealt [7d 4d]
+B raises to 5
+A calls
+Flop [2h Qd 8h], B (5), A (5)
+A checks
+B bets 12
+A raises to 29
+B calls
+Turn [2h Qd 8h Ts], B (34), A (34)
+A bets 136
+B calls
+River [2h Qd 8h Ts 5s], B (170), A (170)
+A checks
+B bets 204
+A folds
+B awarded 170
+A awarded -170
+
+Round #27, A (-267), B (267)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js Jh]
+B dealt [Tc 6d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #28, B (265), A (-265)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 9d]
+A dealt [Qh 7s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #29, A (-267), B (267)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 9h]
+B dealt [7c Js]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #30, B (265), A (-265)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Qh]
+A dealt [2d 7d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #31, A (-267), B (267)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 6h]
+B dealt [2s 4s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #32, B (265), A (-265)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 9c]
+A dealt [Tc 6c]
+B raises to 5
+A calls
+Flop [5s 7h 5d], B (5), A (5)
+A checks
+B checks
+Turn [5s 7h 5d 5h], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #33, A (-260), B (260)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 4h]
+B dealt [7c 8s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #34, B (258), A (-258)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c Kd]
+A dealt [4d 9d]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #35, A (-253), B (253)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d Ts]
+B dealt [Qs Qh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #36, B (254), A (-254)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Ks]
+A dealt [Ah 4s]
+B raises to 5
+A calls
+Flop [5c 2d 9h], B (5), A (5)
+A checks
+B checks
+Turn [5c 2d 9h 4c], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #37, A (-249), B (249)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c Qc]
+B dealt [7c Jd]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #38, B (247), A (-247)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 5c]
+A dealt [Kd 4h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #39, A (-249), B (249)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 8h]
+B dealt [2h Ac]
+A raises to 4
+B calls
+Flop [8d 8s 5d], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #40, B (245), A (-245)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Th]
+A dealt [2c 2d]
+B raises to 5
+A calls
+Flop [Ah Tc Ad], B (5), A (5)
+A checks
+B bets 9
+A folds
+B awarded 5
+A awarded -5
+
+Round #41, A (-250), B (250)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s Tc]
+B dealt [9s 7c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #42, B (248), A (-248)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h 8c]
+A dealt [Tc Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #43, A (-247), B (247)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 4d]
+B dealt [7c 6d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #44, B (245), A (-245)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 9s]
+A dealt [7c 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #45, A (-247), B (247)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah Tc]
+B dealt [6d 6s]
+A raises to 6
+B raises to 10
+A raises to 30
+B calls
+Flop [5d Kh 6c], A (30), B (30)
+B bets 62
+A folds
+A awarded -30
+B awarded 30
+
+Round #46, B (277), A (-277)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 2d]
+A dealt [4d 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #47, A (-279), B (279)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 3h]
+B dealt [4c 9s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #48, B (277), A (-277)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 9d]
+A dealt [Jh 5h]
+B raises to 5
+A calls
+Flop [8c Jc 4h], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #49, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d Qd]
+B dealt [7s 2s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #50, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Jc]
+A dealt [6h 8c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #51, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 4d]
+B dealt [6c Kc]
+A raises to 4
+B calls
+Flop [Th Ac 6d], A (4), B (4)
+B checks
+A checks
+Turn [Th Ac 6d Kh], A (4), B (4)
+B bets 10
+A calls
+River [Th Ac 6d Kh 2c], A (14), B (14)
+B bets 30
+A folds
+A awarded -14
+B awarded 14
+
+Round #52, B (286), A (-286)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 6d]
+A dealt [Ks Qd]
+B raises to 5
+A raises to 25
+B calls
+Flop [7h Jh 2h], B (25), A (25)
+A bets 25
+B folds
+B awarded -25
+A awarded 25
+
+Round #53, A (-261), B (261)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 6c]
+B dealt [2d 8c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #54, B (259), A (-259)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 8c]
+A dealt [Th 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #55, A (-261), B (261)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Qd]
+B dealt [Kh 3s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #56, B (259), A (-259)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 6d]
+A dealt [Js Qs]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #57, A (-254), B (254)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 8h]
+B dealt [8c Ac]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #58, B (258), A (-258)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc Ac]
+A dealt [Jc 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #59, A (-260), B (260)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad Ah]
+B dealt [Jd Kd]
+A raises to 6
+B raises to 18
+A raises to 36
+B calls
+Flop [Kh Ks 2d], A (36), B (36)
+B bets 74
+A calls
+Turn [Kh Ks 2d 5c], A (110), B (110)
+B bets 222
+A folds
+A awarded -110
+B awarded 110
+
+Round #60, B (370), A (-370)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Ac]
+A dealt [4c 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #61, A (-372), B (372)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah Jd]
+B dealt [As 9h]
+A raises to 4
+B calls
+Flop [7c 3c 5h], A (4), B (4)
+B checks
+A checks
+Turn [7c 3c 5h 9s], A (4), B (4)
+B bets 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #62, B (376), A (-376)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 5d]
+A dealt [As 7d]
+B raises to 5
+A calls
+Flop [4s 9h 7s], B (5), A (5)
+A checks
+B checks
+Turn [4s 9h 7s 6h], B (5), A (5)
+A bets 5
+B calls
+River [4s 9h 7s 6h Qs], B (10), A (10)
+A bets 10
+B folds
+B awarded -10
+A awarded 10
+
+Round #63, A (-366), B (366)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac Kd]
+B dealt [4h Qc]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #64, B (364), A (-364)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah As]
+A dealt [8h Ad]
+B raises to 5
+A calls
+Flop [9c 9h Qh], B (5), A (5)
+A checks
+B bets 9
+A calls
+Turn [9c 9h Qh 9d], B (14), A (14)
+A checks
+B bets 30
+A calls
+River [9c 9h Qh 9d Tc], B (44), A (44)
+A checks
+B bets 90
+A folds
+B awarded 44
+A awarded -44
+
+Round #65, A (-408), B (408)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Ts]
+B dealt [Ah Th]
+A calls
+B raises to 7
+A folds
+A awarded -2
+B awarded 2
+
+Round #66, B (410), A (-410)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h As]
+A dealt [4s 3d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #67, A (-412), B (412)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h Th]
+B dealt [2c Ad]
+A calls
+B raises to 6
+A calls
+Flop [Ts 8c 4d], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #68, B (406), A (-406)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts Js]
+A dealt [6d 4s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #69, A (-408), B (408)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 7s]
+B dealt [Ts 4d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #70, B (406), A (-406)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 8c]
+A dealt [8h 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #71, A (-408), B (408)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th Ad]
+B dealt [3h 3s]
+A raises to 6
+B calls
+Flop [8d 9d 4c], A (6), B (6)
+B checks
+A checks
+Turn [8d 9d 4c 8c], A (6), B (6)
+B bets 7
+A calls
+River [8d 9d 4c 8c 6s], A (13), B (13)
+B bets 15
+A folds
+A awarded -13
+B awarded 13
+
+Round #72, B (421), A (-421)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 7d]
+A dealt [Kh 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #73, A (-420), B (420)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 2s]
+B dealt [Jh Qs]
+A raises to 4
+B raises to 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #74, B (424), A (-424)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 6s]
+A dealt [4c 4h]
+B raises to 5
+A calls
+Flop [5s 6h Tc], B (5), A (5)
+A checks
+B checks
+Turn [5s 6h Tc 8d], B (5), A (5)
+A checks
+B checks
+River [5s 6h Tc 8d 5d], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #75, A (-419), B (419)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 2s]
+B dealt [Td Qc]
+A raises to 4
+B calls
+Flop [Ah 7h 6c], A (4), B (4)
+B checks
+A checks
+Turn [Ah 7h 6c Tc], A (4), B (4)
+B bets 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #76, B (423), A (-423)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 6d]
+A dealt [Td Ad]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #77, A (-418), B (418)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 2d]
+B dealt [5s 4s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #78, B (419), A (-419)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 5d]
+A dealt [Jc Qs]
+B raises to 5
+A calls
+Flop [7d 3s 6c], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #79, A (-424), B (424)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc As]
+B dealt [6s 3s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #80, B (422), A (-422)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Ac]
+A dealt [3c 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #81, A (-424), B (424)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 4s]
+B dealt [9c 2d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #82, B (422), A (-422)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d Qs]
+A dealt [5s As]
+B raises to 5
+A calls
+Flop [8h 9s Jc], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #83, A (-427), B (427)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs Ad]
+B dealt [Kc 6s]
+A raises to 6
+B calls
+Flop [Qc 3d 7d], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #84, B (421), A (-421)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 7d]
+A dealt [4c 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #85, A (-423), B (423)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 3c]
+B dealt [9s Tc]
+A raises to 6
+B calls
+Flop [8c 9c 5h], A (6), B (6)
+B bets 9
+A folds
+A awarded -6
+B awarded 6
+
+Round #86, B (429), A (-429)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 8c]
+A dealt [4c Ks]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #87, A (-431), B (431)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 2h]
+B dealt [3c 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #88, B (429), A (-429)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Jc]
+A dealt [9c 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #89, A (-431), B (431)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Kd]
+B dealt [2c 9d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #90, B (429), A (-429)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 2s]
+A dealt [2c 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #91, A (-431), B (431)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 3d]
+B dealt [Qc 2h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #92, B (429), A (-429)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 7h]
+A dealt [5d 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #93, A (-431), B (431)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 2h]
+B dealt [Qd 9s]
+A raises to 4
+B raises to 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #94, B (435), A (-435)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 2s]
+A dealt [2d 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #95, A (-437), B (437)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Ah]
+B dealt [Kd 2h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #96, B (435), A (-435)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah Tc]
+A dealt [5h Qh]
+B raises to 5
+A calls
+Flop [7c 5c 8s], B (5), A (5)
+A checks
+B checks
+Turn [7c 5c 8s Ac], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #97, A (-440), B (440)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d Th]
+B dealt [6h 6c]
+A raises to 4
+B calls
+Flop [7h 2h 6s], A (4), B (4)
+B bets 10
+A calls
+Turn [7h 2h 6s 5c], A (14), B (14)
+B bets 30
+A calls
+River [7h 2h 6s 5c 4c], A (44), B (44)
+B bets 46
+A folds
+A awarded -44
+B awarded 44
+
+Round #98, B (484), A (-484)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 4d]
+A dealt [6c Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #99, A (-483), B (483)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 2s]
+B dealt [5d 3h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #100, B (484), A (-484)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Ad]
+A dealt [8c 3c]
+B raises to 5
+A raises to 15
+B raises to 42
+A folds
+B awarded 15
+A awarded -15
+
+Round #101, A (-499), B (499)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 3c]
+B dealt [Js Ks]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #102, B (503), A (-503)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 7d]
+A dealt [8d 7c]
+B raises to 5
+A calls
+Flop [5c 8h 3d], B (5), A (5)
+A checks
+B checks
+Turn [5c 8h 3d Tc], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #103, A (-498), B (498)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 4c]
+B dealt [3s 3c]
+A raises to 4
+B calls
+Flop [Tc 6h 8d], A (4), B (4)
+B checks
+A checks
+Turn [Tc 6h 8d Td], A (4), B (4)
+B bets 7
+A folds
+A awarded -4
+B awarded 4
+
+Round #104, B (502), A (-502)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Jd]
+A dealt [8s 2s]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #105, A (-497), B (497)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 5d]
+B dealt [5c 7h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #106, B (495), A (-495)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Kc]
+A dealt [8d 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #107, A (-497), B (497)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As Ts]
+B dealt [9s Ac]
+A raises to 4
+B calls
+Flop [9d 7c Ah], A (4), B (4)
+B bets 10
+A calls
+Turn [9d 7c Ah 3c], A (14), B (14)
+B bets 30
+A folds
+A awarded -14
+B awarded 14
+
+Round #108, B (511), A (-511)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 2h]
+A dealt [3s 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #109, A (-513), B (513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 2d]
+B dealt [Jd Th]
+A raises to 6
+B calls
+Flop [5s 5d 8d], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #110, B (507), A (-507)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Qh]
+A dealt [5s 4h]
+B raises to 5
+A calls
+Flop [4d Ah 3h], B (5), A (5)
+A checks
+B checks
+Turn [4d Ah 3h 3s], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #111, A (-502), B (502)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac Ad]
+B dealt [8s 8c]
+A raises to 6
+B raises to 18
+A raises to 36
+B raises to 400
+A calls
+Flop [5c 4h Qh], A (400), B (400)
+B checks
+A checks
+Turn [5c 4h Qh 2d], A (400), B (400)
+B checks
+A checks
+River [5c 4h Qh 2d Qs], A (400), B (400)
+B checks
+A checks
+A shows [Ac Ad]
+B shows [8s 8c]
+A awarded 400
+B awarded -400
+
+Round #112, B (102), A (-102)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 5d]
+A dealt [Qh Kd]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #113, A (-97), B (97)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 3d]
+B dealt [4d Jh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #114, B (95), A (-95)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 9c]
+A dealt [Ah 6s]
+B raises to 5
+A calls
+Flop [2s 4h Js], B (5), A (5)
+A checks
+B checks
+Turn [2s 4h Js 4d], B (5), A (5)
+A checks
+B checks
+River [2s 4h Js 4d Qh], B (5), A (5)
+A checks
+B checks
+Run [2s 4h Js 4d Qh 3h], B (5), A (5)
+A checks
+B bets 12
+A attempted illegal CheckAction
+A folds
+B awarded 5
+A awarded -5
+
+Round #115, A (-100), B (100)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 5d]
+B dealt [Kh 4c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #116, B (98), A (-98)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 3d]
+A dealt [Kc Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #117, A (-97), B (97)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 5c]
+B dealt [7c 9c]
+A raises to 4
+B raises to 6
+A calls
+Flop [7h 4h Qd], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #118, B (91), A (-91)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Js]
+A dealt [3h 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #119, A (-93), B (93)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 2s]
+B dealt [6h 5s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #120, B (91), A (-91)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 5h]
+A dealt [Qs Ad]
+B raises to 5
+A raises to 25
+B calls
+Flop [Tc 7s 6c], B (25), A (25)
+A checks
+B checks
+Turn [Tc 7s 6c Kd], B (25), A (25)
+A checks
+B checks
+River [Tc 7s 6c Kd Jh], B (25), A (25)
+A bets 25
+B folds
+B awarded -25
+A awarded 25
+
+Round #121, A (-66), B (66)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Qc]
+B dealt [8s 4h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #122, B (64), A (-64)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 2d]
+A dealt [4s 6s]
+B raises to 5
+A calls
+Flop [5h 6d 8h], B (5), A (5)
+A checks
+B bets 7
+A calls
+Turn [5h 6d 8h 6h], B (12), A (12)
+A checks
+B bets 14
+A raises to 40
+B calls
+River [5h 6d 8h 6h 9c], B (52), A (52)
+A checks
+B checks
+B shows [5d 2d]
+A shows [4s 6s]
+B awarded -52
+A awarded 52
+
+Round #123, A (-12), B (12)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 7s]
+B dealt [4c 3h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #124, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 2c]
+A dealt [9h Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #125, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 2d]
+B dealt [4c 8s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #126, B (7), A (-7)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Ah]
+A dealt [6h 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #127, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 4s]
+B dealt [4c Ah]
+A folds
+A awarded -1
+B awarded 1
+
+Round #128, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h 5s]
+A dealt [5d 7d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #129, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd Ac]
+B dealt [6s 2s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #130, B (7), A (-7)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Qs]
+A dealt [5s Kc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #131, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 7d]
+B dealt [Tc 6h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #132, B (7), A (-7)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Kd]
+A dealt [Ac 6d]
+B raises to 5
+A calls
+Flop [3s 9d 8c], B (5), A (5)
+A checks
+B bets 8
+A folds
+B awarded 5
+A awarded -5
+
+Round #133, A (-12), B (12)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 8s]
+B dealt [Qh 4s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #134, B (13), A (-13)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Ac]
+A dealt [Qc 9d]
+B raises to 5
+A calls
+Flop [Kc 3d Ts], B (5), A (5)
+A checks
+B checks
+Turn [Kc 3d Ts 7c], B (5), A (5)
+A checks
+B checks
+River [Kc 3d Ts 7c 9c], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #135, A (-8), B (8)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c Jc]
+B dealt [3c 3h]
+A raises to 4
+B calls
+Flop [2c 6d 9c], A (4), B (4)
+B bets 6
+A calls
+Turn [2c 6d 9c 7s], A (10), B (10)
+B checks
+A checks
+River [2c 6d 9c 7s Ad], A (10), B (10)
+B checks
+A bets 20
+B folds
+A awarded 10
+B awarded -10
+
+Round #136, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Jh]
+A dealt [Tc 9c]
+B raises to 5
+A raises to 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #137, A (7), B (-7)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h Kh]
+B dealt [7d 7c]
+A raises to 4
+B raises to 6
+A calls
+Flop [3c 3s 6d], A (6), B (6)
+B bets 10
+A folds
+A awarded -6
+B awarded 6
+
+Round #138, B (-1), A (1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 8h]
+A dealt [Qs Ah]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #139, A (6), B (-6)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Ts]
+B dealt [2d 3d]
+A raises to 4
+B raises to 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #140, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 9c]
+A dealt [Kd 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #141, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 4d]
+B dealt [4s 6c]
+A calls
+B checks
+Flop [Qs As 7s], A (2), B (2)
+B checks
+A bets 2
+B folds
+A awarded 2
+B awarded -2
+
+Round #142, B (-5), A (5)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks Jc]
+A dealt [Ac As]
+B raises to 5
+A raises to 25
+B calls
+Flop [3c 7c 8d], B (25), A (25)
+A checks
+B checks
+Turn [3c 7c 8d 4c], B (25), A (25)
+A bets 50
+B folds
+B awarded -25
+A awarded 25
+
+Round #143, A (30), B (-30)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 6h]
+B dealt [Td Js]
+A raises to 4
+B raises to 6
+A calls
+Flop [Ks 5c Kc], A (6), B (6)
+B checks
+A checks
+Turn [Ks 5c Kc 7s], A (6), B (6)
+B checks
+A checks
+River [Ks 5c Kc 7s Qh], A (6), B (6)
+B bets 14
+A folds
+A awarded -6
+B awarded 6
+
+Round #144, B (-24), A (24)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s 7s]
+A dealt [7d Js]
+B raises to 5
+A calls
+Flop [Ts Ah 5c], B (5), A (5)
+A checks
+B checks
+Turn [Ts Ah 5c 2c], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #145, A (29), B (-29)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 3c]
+B dealt [Ac 2h]
+A raises to 6
+B calls
+Flop [Kc 4s Qh], A (6), B (6)
+B checks
+A checks
+Turn [Kc 4s Qh Kh], A (6), B (6)
+B checks
+A checks
+River [Kc 4s Qh Kh Ks], A (6), B (6)
+B checks
+A checks
+A shows [Ts 3c]
+B shows [Ac 2h]
+A awarded -6
+B awarded 6
+
+Round #146, B (-23), A (23)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 2d]
+A dealt [8d Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #147, A (24), B (-24)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s Qh]
+B dealt [5h Jc]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #148, B (-26), A (26)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 4d]
+A dealt [Qs Kd]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #149, A (31), B (-31)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d Ad]
+B dealt [7h 8s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #150, B (-33), A (33)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 6d]
+A dealt [Jc 8s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #151, A (31), B (-31)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d Kc]
+B dealt [9d Ad]
+A raises to 6
+B raises to 18
+A folds
+A awarded -6
+B awarded 6
+
+Round #152, B (-25), A (25)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 7s]
+A dealt [Qs 4h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #153, A (23), B (-23)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 5c]
+B dealt [8h 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #154, B (-25), A (25)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 6c]
+A dealt [Ad Ac]
+B raises to 5
+A raises to 15
+B calls
+Flop [Qh 5c 6d], B (15), A (15)
+A bets 15
+B folds
+B awarded -15
+A awarded 15
+
+Round #155, A (40), B (-40)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 2d]
+B dealt [9d 7h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #156, B (-42), A (42)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s Jh]
+A dealt [Tc Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #157, A (43), B (-43)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 7s]
+B dealt [Qc 2d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #158, B (-45), A (45)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Ts]
+A dealt [6h 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #159, A (43), B (-43)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Jh]
+B dealt [9h Jd]
+A raises to 4
+B calls
+Flop [Kc Jc 4s], A (4), B (4)
+B bets 6
+A calls
+Turn [Kc Jc 4s 3s], A (10), B (10)
+B bets 16
+A calls
+River [Kc Jc 4s 3s 6d], A (26), B (26)
+B bets 41
+A folds
+A awarded -26
+B awarded 26
+
+Round #160, B (-17), A (17)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d As]
+A dealt [9d 9s]
+B raises to 5
+A raises to 15
+B calls
+Flop [6h Kh 8h], B (15), A (15)
+A checks
+B checks
+Turn [6h Kh 8h 3d], B (15), A (15)
+A checks
+B checks
+River [6h Kh 8h 3d 5c], B (15), A (15)
+A bets 15
+B folds
+B awarded -15
+A awarded 15
+
+Round #161, A (32), B (-32)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Th]
+B dealt [Ks Kc]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #162, B (-28), A (28)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 6c]
+A dealt [6d Qs]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #163, A (26), B (-26)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Ks]
+B dealt [Tc 5c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #164, B (-28), A (28)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Qh]
+A dealt [2c 3c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #165, A (26), B (-26)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 9s]
+B dealt [3h 3d]
+A raises to 4
+B raises to 6
+A calls
+Flop [9c Ks Kc], A (6), B (6)
+B bets 10
+A calls
+Turn [9c Ks Kc 5c], A (16), B (16)
+B bets 28
+A calls
+River [9c Ks Kc 5c Ad], A (44), B (44)
+B bets 52
+A folds
+A awarded -44
+B awarded 44
+
+Round #166, B (18), A (-18)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s Js]
+A dealt [Tc 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #167, A (-20), B (20)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d Js]
+B dealt [Ad As]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #168, B (24), A (-24)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d Jh]
+A dealt [Qs 6d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #169, A (-26), B (26)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As Ac]
+B dealt [Kd 9d]
+A raises to 6
+B raises to 10
+A raises to 30
+B calls
+Flop [2h 5d 3h], A (30), B (30)
+B checks
+A checks
+Turn [2h 5d 3h 3s], A (30), B (30)
+B checks
+A bets 30
+B folds
+A awarded 30
+B awarded -30
+
+Round #170, B (-4), A (4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Ac]
+A dealt [Kc Qd]
+B raises to 5
+A raises to 25
+B calls
+Flop [7s 2h 4s], B (25), A (25)
+A checks
+B bets 40
+A calls
+Turn [7s 2h 4s 4h], B (65), A (65)
+A checks
+B bets 78
+A folds
+B awarded 65
+A awarded -65
+
+Round #171, A (-61), B (61)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc Kd]
+B dealt [4h 4d]
+A raises to 4
+B calls
+Flop [5d 9d Jd], A (4), B (4)
+B checks
+A bets 8
+B folds
+A awarded 4
+B awarded -4
+
+Round #172, B (57), A (-57)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 9h]
+A dealt [9s 3h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #173, A (-56), B (56)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 2h]
+B dealt [Ah 8d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #174, B (57), A (-57)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Jh]
+A dealt [6d Jc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #175, A (-59), B (59)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 8h]
+B dealt [7c 3s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #176, B (57), A (-57)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc Qh]
+A dealt [9h Ac]
+B raises to 5
+A calls
+Flop [9s 9d 4c], B (5), A (5)
+A checks
+B checks
+Turn [9s 9d 4c 9c], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #177, A (-52), B (52)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 6c]
+B dealt [As 7c]
+A raises to 4
+B raises to 6
+A calls
+Flop [7d Tc Qs], A (6), B (6)
+B checks
+A checks
+Turn [7d Tc Qs 4d], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #178, B (46), A (-46)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js Td]
+A dealt [3h Kc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #179, A (-48), B (48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 7c]
+B dealt [7d 5s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #180, B (46), A (-46)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 2s]
+A dealt [Ks 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #181, A (-45), B (45)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h Ad]
+B dealt [6c 7s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #182, B (43), A (-43)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 2s]
+A dealt [7h 3h]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #183, A (-38), B (38)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Kc]
+B dealt [2s Qc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #184, B (36), A (-36)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc As]
+A dealt [3c Qh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #185, A (-38), B (38)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 8s]
+B dealt [7c 5d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #186, B (36), A (-36)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c Ks]
+A dealt [Qs 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #187, A (-38), B (38)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 6h]
+B dealt [7d 2c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #188, B (36), A (-36)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 9s]
+A dealt [Qd 7h]
+B raises to 5
+A calls
+Flop [3c 5c Td], B (5), A (5)
+A checks
+B checks
+Turn [3c 5c Td 9c], B (5), A (5)
+A checks
+B bets 7
+A folds
+B awarded 5
+A awarded -5
+
+Round #189, A (-41), B (41)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc Tc]
+B dealt [2d 7c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #190, B (39), A (-39)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Kd]
+A dealt [3s 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #191, A (-41), B (41)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 3h]
+B dealt [Kh 3s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #192, B (39), A (-39)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Ac]
+A dealt [2h 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #193, A (-41), B (41)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 7c]
+B dealt [2h Qs]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #194, B (39), A (-39)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Kd]
+A dealt [3c Jh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #195, A (-41), B (41)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 5c]
+B dealt [Kc 6d]
+A raises to 4
+B raises to 6
+A calls
+Flop [9h 7s 2d], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #196, B (35), A (-35)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh As]
+A dealt [Tc 8d]
+B raises to 5
+A calls
+Flop [Jc 7s 4c], B (5), A (5)
+A checks
+B bets 8
+A calls
+Turn [Jc 7s 4c 6c], B (13), A (13)
+A checks
+B bets 20
+A calls
+River [Jc 7s 4c 6c Qc], B (33), A (33)
+A checks
+B checks
+B shows [Jh As]
+A shows [Tc 8d]
+B awarded -33
+A awarded 33
+
+Round #197, A (-2), B (2)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 8d]
+B dealt [6c 5h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #198, B (0), A (0)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d Jd]
+A dealt [6s 9d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #199, A (-2), B (2)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 8s]
+B dealt [As 7d]
+A raises to 4
+B raises to 6
+A calls
+Flop [Qh 4h 5s], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #200, B (-4), A (4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 7h]
+A dealt [Qd 9c]
+B raises to 5
+A calls
+Flop [3h Qs 8s], B (5), A (5)
+A checks
+B bets 7
+A calls
+Turn [3h Qs 8s Ah], B (12), A (12)
+A checks
+B checks
+River [3h Qs 8s Ah Tc], B (12), A (12)
+A checks
+B checks
+B shows [7d 7h]
+A shows [Qd 9c]
+B awarded -12
+A awarded 12
+
+Round #201, A (16), B (-16)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 5h]
+B dealt [2d Qs]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #202, B (-18), A (18)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 3s]
+A dealt [7s 2d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #203, A (19), B (-19)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s 2s]
+B dealt [Ah 5h]
+A raises to 4
+B raises to 6
+A calls
+Flop [9s Jd Jh], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #204, B (-25), A (25)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d Jc]
+A dealt [Kd Ks]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #205, A (30), B (-30)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Ks]
+B dealt [8d 6s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #206, B (-32), A (32)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Ks]
+A dealt [Ac 3d]
+B raises to 5
+A calls
+Flop [4c Kd 7h], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #207, A (27), B (-27)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad Ts]
+B dealt [Jc 4s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #208, B (-29), A (29)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac Jh]
+A dealt [3h Qc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #209, A (27), B (-27)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc Qc]
+B dealt [Tc 4d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #210, B (-29), A (29)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 2s]
+A dealt [2c Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #211, A (30), B (-30)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Kd]
+B dealt [5c Qs]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #212, B (-32), A (32)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc As]
+A dealt [Td 4h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #213, A (30), B (-30)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh 8h]
+B dealt [Td 9h]
+A raises to 4
+B calls
+Flop [2c 7d Ah], A (4), B (4)
+B checks
+A checks
+Turn [2c 7d Ah 6c], A (4), B (4)
+B bets 4
+A folds
+A awarded -4
+B awarded 4
+
+Round #214, B (-26), A (26)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 2h]
+A dealt [4d Tc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #215, A (24), B (-24)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Tc]
+B dealt [Qs 5s]
+A raises to 4
+B calls
+Flop [Ah 6h Ts], A (4), B (4)
+B checks
+A checks
+Turn [Ah 6h Ts Qd], A (4), B (4)
+B bets 6
+A calls
+River [Ah 6h Ts Qd Ks], A (10), B (10)
+B checks
+A checks
+A shows [9s Tc]
+B shows [Qs 5s]
+A awarded -10
+B awarded 10
+
+Round #216, B (-14), A (14)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 8s]
+A dealt [Qs 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #217, A (15), B (-15)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Ks]
+B dealt [8h 2c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #218, B (-17), A (17)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd Js]
+A dealt [6s 3c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #219, A (15), B (-15)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 4h]
+B dealt [6c 9d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #220, B (-17), A (17)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 5d]
+A dealt [Tc 2s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #221, A (15), B (-15)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Qs]
+B dealt [Kd 8c]
+A raises to 6
+B calls
+Flop [8s Jh 8d], A (6), B (6)
+B bets 14
+A folds
+A awarded -6
+B awarded 6
+
+Round #222, B (-9), A (9)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c Js]
+A dealt [5c As]
+B raises to 5
+A calls
+Flop [8c 2c 7s], B (5), A (5)
+A checks
+B checks
+Turn [8c 2c 7s 8d], B (5), A (5)
+A checks
+B checks
+River [8c 2c 7s 8d 5s], B (5), A (5)
+A bets 20
+B folds
+B awarded -5
+A awarded 5
+
+Round #223, A (14), B (-14)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 5d]
+B dealt [5c 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #224, B (-16), A (16)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 5d]
+A dealt [5h 6c]
+B raises to 5
+A calls
+Flop [Ks 6d 8s], B (5), A (5)
+A checks
+B checks
+Turn [Ks 6d 8s 2c], B (5), A (5)
+A checks
+B checks
+River [Ks 6d 8s 2c 9s], B (5), A (5)
+A checks
+B bets 6
+A calls
+B shows [Ad 5d]
+A shows [5h 6c]
+B awarded -11
+A awarded 11
+
+Round #225, A (27), B (-27)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks Qd]
+B dealt [Kc 6c]
+A raises to 4
+B calls
+Flop [Kh Td Ac], A (4), B (4)
+B bets 6
+A calls
+Turn [Kh Td Ac 8s], A (10), B (10)
+B bets 16
+A calls
+River [Kh Td Ac 8s 5h], A (26), B (26)
+B bets 41
+A folds
+A awarded -26
+B awarded 26
+
+Round #226, B (-1), A (1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 4s]
+A dealt [Qs 3c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #227, A (-1), B (1)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Qs]
+B dealt [Kc 7s]
+A raises to 4
+B calls
+Flop [Ah Qd Qc], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #228, B (-3), A (3)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 6d]
+A dealt [Jd Ah]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #229, A (8), B (-8)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 5c]
+B dealt [2d 6c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #230, B (-10), A (10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 4d]
+A dealt [5s Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #231, A (11), B (-11)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Ad]
+B dealt [As 5d]
+A raises to 4
+B raises to 6
+A calls
+Flop [Qs Ks 8h], A (6), B (6)
+B checks
+A checks
+Turn [Qs Ks 8h 3d], A (6), B (6)
+B checks
+A checks
+River [Qs Ks 8h 3d Qd], A (6), B (6)
+B checks
+A checks
+Run [Qs Ks 8h 3d Qd 7c], A (6), B (6)
+B checks
+A checks
+A shows [3h Ad]
+B shows [As 5d]
+A awarded 6
+B awarded -6
+
+Round #232, B (-17), A (17)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 9c]
+A dealt [Ah 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #233, A (18), B (-18)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s 4s]
+B dealt [Jc 7d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #234, B (-20), A (20)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d Ks]
+A dealt [6c Kd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #235, A (18), B (-18)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 3h]
+B dealt [5h Jc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #236, B (-20), A (20)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d Kc]
+A dealt [7c Jh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #237, A (18), B (-18)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 8h]
+B dealt [Jh 4s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #238, B (-20), A (20)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 6d]
+A dealt [Td Ac]
+B raises to 5
+A calls
+Flop [Jh 3c 8d], B (5), A (5)
+A checks
+B checks
+Turn [Jh 3c 8d 2c], B (5), A (5)
+A checks
+B checks
+River [Jh 3c 8d 2c 4d], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #239, A (15), B (-15)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 7s]
+B dealt [9c Jc]
+A raises to 4
+B calls
+Flop [5h 7d 3s], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #240, B (-19), A (19)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 3h]
+A dealt [4d Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #241, A (20), B (-20)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Kh]
+B dealt [6s 2c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #242, B (-22), A (22)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Qh]
+A dealt [8h 9c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #243, A (20), B (-20)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 2h]
+B dealt [4d Ks]
+A folds
+A awarded -1
+B awarded 1
+
+Round #244, B (-19), A (19)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 4c]
+A dealt [7h 3h]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #245, A (24), B (-24)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 2d]
+B dealt [Kc 5s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #246, B (-23), A (23)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Qh]
+A dealt [3h 8h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #247, A (21), B (-21)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c Ad]
+B dealt [9h 5c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #248, B (-23), A (23)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 6s]
+A dealt [5c 3d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #249, A (21), B (-21)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 2d]
+B dealt [5c 7d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #250, B (-20), A (20)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 4s]
+A dealt [Js As]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #251, A (25), B (-25)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd Tc]
+B dealt [6h Ah]
+A raises to 4
+B raises to 6
+A calls
+Flop [4h Td 8h], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #252, B (-31), A (31)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s Kh]
+A dealt [9s Ah]
+B raises to 5
+A calls
+Flop [8h 5c 9h], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #253, A (36), B (-36)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 5c]
+B dealt [Ah Kh]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #254, B (-32), A (32)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc Ts]
+A dealt [9d 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #255, A (30), B (-30)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Jc]
+B dealt [Ts 3s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #256, B (-32), A (32)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Kd]
+A dealt [Ad Qs]
+B raises to 5
+A raises to 25
+B calls
+Flop [Jd 7c Ts], B (25), A (25)
+A bets 25
+B folds
+B awarded -25
+A awarded 25
+
+Round #257, A (57), B (-57)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Ac]
+B dealt [5c 7h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #258, B (-59), A (59)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Qh]
+A dealt [Kh 9s]
+B raises to 5
+A calls
+Flop [4c 8s Td], B (5), A (5)
+A checks
+B bets 7
+A folds
+B awarded 5
+A awarded -5
+
+Round #259, A (54), B (-54)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 3h]
+B dealt [9c 2h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #260, B (-56), A (56)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 6h]
+A dealt [4c 3c]
+B raises to 5
+A calls
+Flop [Tc Jh 8d], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #261, A (51), B (-51)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Jd]
+B dealt [6d Qc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #262, B (-53), A (53)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Jh]
+A dealt [2s 8h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #263, A (51), B (-51)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s Kc]
+B dealt [3d 7d]
+A calls
+B checks
+Flop [Ks 8h Ts], A (2), B (2)
+B checks
+A bets 2
+B folds
+A awarded 2
+B awarded -2
+
+Round #264, B (-53), A (53)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s Qs]
+A dealt [8c 7s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #265, A (51), B (-51)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h Jd]
+B dealt [Ah 4d]
+A raises to 4
+B raises to 6
+A calls
+Flop [5c 7d 7h], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #266, B (-57), A (57)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 3s]
+A dealt [2c Kd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #267, A (55), B (-55)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 5c]
+B dealt [3c 5s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #268, B (-57), A (57)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc Ks]
+A dealt [9h Ac]
+B raises to 5
+A calls
+Flop [8s Jh 5h], B (5), A (5)
+A checks
+B bets 8
+A folds
+B awarded 5
+A awarded -5
+
+Round #269, A (52), B (-52)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 3d]
+B dealt [4s Ad]
+A raises to 4
+B calls
+Flop [Kh 9c Kd], A (4), B (4)
+B checks
+A checks
+Turn [Kh 9c Kd 4d], A (4), B (4)
+B bets 4
+A folds
+A awarded -4
+B awarded 4
+
+Round #270, B (-48), A (48)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 8d]
+A dealt [2s 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #271, A (46), B (-46)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 7h]
+B dealt [Ad 5h]
+A raises to 4
+B calls
+Flop [8d 2h 8h], A (4), B (4)
+B checks
+A checks
+Turn [8d 2h 8h 8c], A (4), B (4)
+B checks
+A bets 8
+B folds
+A awarded 4
+B awarded -4
+
+Round #272, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 8s]
+A dealt [Kh 5c]
+B raises to 5
+A calls
+Flop [2c 3d Kc], B (5), A (5)
+A checks
+B checks
+Turn [2c 3d Kc 5d], B (5), A (5)
+A checks
+B checks
+River [2c 3d Kc 5d Kd], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #273, A (55), B (-55)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 6s]
+B dealt [Ks Qc]
+A raises to 4
+B raises to 14
+A calls
+Flop [As 8d 3h], A (14), B (14)
+B checks
+A bets 14
+B folds
+A awarded 14
+B awarded -14
+
+Round #274, B (-69), A (69)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 9c]
+A dealt [Ac 5d]
+B raises to 5
+A calls
+Flop [7c Qh 6c], B (5), A (5)
+A checks
+B checks
+Turn [7c Qh 6c Kd], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #275, A (64), B (-64)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 2c]
+B dealt [9s Jh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #276, B (-63), A (63)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Qd]
+A dealt [3d Jh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #277, A (61), B (-61)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 3d]
+B dealt [4h Jd]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #278, B (-63), A (63)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Kc]
+A dealt [4s 7s]
+B raises to 5
+A calls
+Flop [5c 2s Kh], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #279, A (58), B (-58)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 8d]
+B dealt [7s Qc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #280, B (-60), A (60)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 4s]
+A dealt [9d Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #281, A (61), B (-61)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 3h]
+B dealt [2h 5d]
+A calls
+B checks
+Flop [Ac 8h Tc], A (2), B (2)
+B checks
+A checks
+Turn [Ac 8h Tc 4c], A (2), B (2)
+B bets 2
+A folds
+A awarded -2
+B awarded 2
+
+Round #282, B (-59), A (59)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 7s]
+A dealt [6s 7c]
+B raises to 5
+A calls
+Flop [Ks Jh Kd], B (5), A (5)
+A checks
+B checks
+Turn [Ks Jh Kd 8c], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #283, A (64), B (-64)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc Jh]
+B dealt [9c Qd]
+A raises to 4
+B calls
+Flop [Th 5c 2h], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #284, B (-68), A (68)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Qh]
+A dealt [Jc Jh]
+B raises to 5
+A raises to 15
+B calls
+Flop [Ts 5s Ad], B (15), A (15)
+A checks
+B checks
+Turn [Ts 5s Ad Js], B (15), A (15)
+A bets 30
+B folds
+B awarded -15
+A awarded 15
+
+Round #285, A (83), B (-83)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 9h]
+B dealt [2d Jc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #286, B (-85), A (85)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh 8s]
+A dealt [6h Ks]
+B raises to 5
+A calls
+Flop [6d 8d 7h], B (5), A (5)
+A checks
+B bets 8
+A folds
+B awarded 5
+A awarded -5
+
+Round #287, A (80), B (-80)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 6d]
+B dealt [5h 5c]
+A raises to 6
+B raises to 10
+A folds
+A awarded -6
+B awarded 6
+
+Round #288, B (-74), A (74)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 2s]
+A dealt [5c 4h]
+B raises to 5
+A calls
+Flop [5d 6c Jd], B (5), A (5)
+A checks
+B checks
+Turn [5d 6c Jd Ts], B (5), A (5)
+A checks
+B checks
+River [5d 6c Jd Ts 5h], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #289, A (79), B (-79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Td]
+B dealt [Qs 7d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #290, B (-78), A (78)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 5d]
+A dealt [Ks 6c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #291, A (76), B (-76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 5c]
+B dealt [3c As]
+A raises to 6
+B raises to 10
+A folds
+A awarded -6
+B awarded 6
+
+Round #292, B (-70), A (70)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td As]
+A dealt [8s 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #293, A (68), B (-68)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 9s]
+B dealt [Kd Qc]
+A raises to 4
+B raises to 14
+A calls
+Flop [6s 4s 7c], A (14), B (14)
+B checks
+A bets 14
+B folds
+A awarded 14
+B awarded -14
+
+Round #294, B (-82), A (82)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 3c]
+A dealt [Qd 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #295, A (80), B (-80)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 5s]
+B dealt [Qs 4h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #296, B (-82), A (82)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 3d]
+A dealt [5s Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #297, A (83), B (-83)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 7h]
+B dealt [8c Jc]
+A raises to 6
+B calls
+Flop [8h 5h 7d], A (6), B (6)
+B bets 9
+A calls
+Turn [8h 5h 7d 5c], A (15), B (15)
+B bets 18
+A calls
+River [8h 5h 7d 5c Ah], A (33), B (33)
+B bets 26
+A folds
+A awarded -33
+B awarded 33
+
+Round #298, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 9d]
+A dealt [3h Jd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #299, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h Qh]
+B dealt [5s 6d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #300, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 2s]
+A dealt [5c Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #301, A (51), B (-51)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 3s]
+B dealt [Ah 2s]
+A raises to 6
+B calls
+Flop [Jh Ks 6h], A (6), B (6)
+B checks
+A checks
+Turn [Jh Ks 6h 9s], A (6), B (6)
+B checks
+A checks
+River [Jh Ks 6h 9s Ts], A (6), B (6)
+B checks
+A checks
+A shows [7d 3s]
+B shows [Ah 2s]
+A awarded -6
+B awarded 6
+
+Round #302, B (-45), A (45)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 4s]
+A dealt [5d 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #303, A (46), B (-46)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 9d]
+B dealt [Qc 7c]
+A raises to 4
+B calls
+Flop [Ad 8c 7s], A (4), B (4)
+B checks
+A checks
+Turn [Ad 8c 7s 3s], A (4), B (4)
+B checks
+A checks
+River [Ad 8c 7s 3s 3c], A (4), B (4)
+B bets 2
+A folds
+A awarded -4
+B awarded 4
+
+Round #304, B (-42), A (42)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c As]
+A dealt [3s Jc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #305, A (40), B (-40)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d Js]
+B dealt [2h 2s]
+A raises to 4
+B calls
+Flop [Th 6d 6c], A (4), B (4)
+B bets 4
+A folds
+A awarded -4
+B awarded 4
+
+Round #306, B (-36), A (36)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 9c]
+A dealt [2h 9s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #307, A (37), B (-37)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Kc]
+B dealt [5h Jh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #308, B (-39), A (39)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 4d]
+A dealt [9d 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #309, A (40), B (-40)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 2h]
+B dealt [As 4h]
+A raises to 6
+B raises to 10
+A folds
+A awarded -6
+B awarded 6
+
+Round #310, B (-34), A (34)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 4h]
+A dealt [Jd 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #311, A (35), B (-35)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Tc]
+B dealt [Ks Jc]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #312, B (-31), A (31)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh 7c]
+A dealt [6d 8d]
+B raises to 5
+A calls
+Flop [2d 8h 7h], B (5), A (5)
+A bets 5
+B calls
+Turn [2d 8h 7h 3c], B (10), A (10)
+A bets 10
+B folds
+B awarded -10
+A awarded 10
+
+Round #313, A (41), B (-41)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Js]
+B dealt [Kh 4d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #314, B (-43), A (43)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c As]
+A dealt [2c 8h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #315, A (41), B (-41)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Kc]
+B dealt [5s 9d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #316, B (-43), A (43)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 7s]
+A dealt [6h 7h]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #317, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 8d]
+B dealt [Qd 6c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #318, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 4h]
+A dealt [3d 5s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #319, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 2h]
+B dealt [Jh Ad]
+A folds
+A awarded -1
+B awarded 1
+
+Round #320, B (-47), A (47)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 2h]
+A dealt [3h Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #321, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 6h]
+B dealt [Kd Tc]
+A raises to 4
+B raises to 6
+A calls
+Flop [Ad 6c 6d], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #322, B (-54), A (54)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 2d]
+A dealt [Td Kd]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #323, A (59), B (-59)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 5c]
+B dealt [2s 9c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #324, B (-61), A (61)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 5d]
+A dealt [2d Qs]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #325, A (59), B (-59)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 3d]
+B dealt [9s As]
+A raises to 4
+B raises to 14
+A calls
+Flop [5d Kd 8s], A (14), B (14)
+B checks
+A bets 14
+B folds
+A awarded 14
+B awarded -14
+
+Round #326, B (-73), A (73)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 9d]
+A dealt [5c 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #327, A (71), B (-71)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Ks]
+B dealt [3s Td]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #328, B (-73), A (73)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h Qh]
+A dealt [As Kd]
+B raises to 5
+A raises to 25
+B calls
+Flop [2c Js 6d], B (25), A (25)
+A checks
+B bets 27
+A calls
+Turn [2c Js 6d Ac], B (52), A (52)
+A checks
+B checks
+River [2c Js 6d Ac 8d], B (52), A (52)
+A bets 208
+B folds
+B awarded -52
+A awarded 52
+
+Round #329, A (125), B (-125)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 4c]
+B dealt [7s 9d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #330, B (-127), A (127)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c As]
+A dealt [Kh 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #331, A (125), B (-125)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 7h]
+B dealt [7d 7s]
+A raises to 4
+B calls
+Flop [9s 3s Ac], A (4), B (4)
+B bets 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #332, B (-121), A (121)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Jd]
+A dealt [3s 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #333, A (119), B (-119)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 8d]
+B dealt [Kh Qd]
+A raises to 4
+B raises to 14
+A calls
+Flop [Ah Ts Jc], A (14), B (14)
+B bets 30
+A folds
+A awarded -14
+B awarded 14
+
+Round #334, B (-105), A (105)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Jc]
+A dealt [7c 8s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #335, A (103), B (-103)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Qc]
+B dealt [As Js]
+A raises to 6
+B raises to 18
+A calls
+Flop [5s 7c 6s], A (18), B (18)
+B checks
+A checks
+Turn [5s 7c 6s 6c], A (18), B (18)
+B checks
+A checks
+River [5s 7c 6s 6c Jd], A (18), B (18)
+B bets 21
+A folds
+A awarded -18
+B awarded 18
+
+Round #336, B (-85), A (85)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 3h]
+A dealt [2s Td]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #337, A (83), B (-83)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 6c]
+B dealt [5d 8d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #338, B (-85), A (85)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 8h]
+A dealt [8s Ac]
+B raises to 5
+A calls
+Flop [5h 5c 6h], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #339, A (80), B (-80)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 3h]
+B dealt [9s Jd]
+A raises to 6
+B calls
+Flop [7c Qs Qc], A (6), B (6)
+B checks
+A checks
+Turn [7c Qs Qc 5d], A (6), B (6)
+B checks
+A checks
+River [7c Qs Qc 5d 5h], A (6), B (6)
+B checks
+A checks
+Run [7c Qs Qc 5d 5h Kd], A (6), B (6)
+B bets 7
+A attempted illegal CheckAction
+A folds
+A awarded -6
+B awarded 6
+
+Round #340, B (-74), A (74)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 9s]
+A dealt [2c 3d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #341, A (72), B (-72)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 9s]
+B dealt [Td 8d]
+A raises to 4
+B calls
+Flop [8c Ah 9h], A (4), B (4)
+B bets 3
+A raises to 10
+B folds
+A awarded 7
+B awarded -7
+
+Round #342, B (-79), A (79)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 6c]
+A dealt [3c Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #343, A (80), B (-80)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 2s]
+B dealt [5s Td]
+A folds
+A awarded -1
+B awarded 1
+
+Round #344, B (-79), A (79)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Jd]
+A dealt [6h 6d]
+B raises to 5
+A raises to 15
+B calls
+Flop [7h Kc 5c], B (15), A (15)
+A checks
+B checks
+Turn [7h Kc 5c Ks], B (15), A (15)
+A bets 15
+B folds
+B awarded -15
+A awarded 15
+
+Round #345, A (94), B (-94)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js Kc]
+B dealt [Tc Qs]
+A raises to 4
+B calls
+Flop [7c 2c 6s], A (4), B (4)
+B checks
+A checks
+Turn [7c 2c 6s 3d], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #346, B (-98), A (98)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 4d]
+A dealt [Qc 4s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #347, A (96), B (-96)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 2d]
+B dealt [Kd Ad]
+A folds
+A awarded -1
+B awarded 1
+
+Round #348, B (-95), A (95)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc Ah]
+A dealt [Ad 4c]
+B raises to 5
+A calls
+Flop [6d 6h Kh], B (5), A (5)
+A checks
+B checks
+Turn [6d 6h Kh Jh], B (5), A (5)
+A checks
+B bets 4
+A calls
+River [6d 6h Kh Jh 4s], B (9), A (9)
+A bets 9
+B calls
+B shows [Jc Ah]
+A shows [Ad 4c]
+B awarded 18
+A awarded -18
+
+Round #349, A (77), B (-77)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 4h]
+B dealt [Qs 9c]
+A raises to 4
+B calls
+Flop [4c 3s 6h], A (4), B (4)
+B checks
+A checks
+Turn [4c 3s 6h 6s], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #350, B (-81), A (81)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 5d]
+A dealt [Tc Jd]
+B raises to 5
+A calls
+Flop [4c 8s 7d], B (5), A (5)
+A checks
+B bets 6
+A calls
+Turn [4c 8s 7d 5s], B (11), A (11)
+A checks
+B checks
+River [4c 8s 7d 5s 7s], B (11), A (11)
+A bets 11
+B calls
+B shows [Ac 5d]
+A shows [Tc Jd]
+B awarded 22
+A awarded -22
+
+Round #351, A (59), B (-59)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 7h]
+B dealt [Qs 9h]
+A raises to 4
+B raises to 6
+A calls
+Flop [3s 9s 6s], A (6), B (6)
+B bets 9
+A calls
+Turn [3s 9s 6s 9c], A (15), B (15)
+B bets 32
+A calls
+River [3s 9s 6s 9c 7c], A (47), B (47)
+B bets 96
+A raises to 353
+B calls
+A shows [7d 7h]
+B shows [Qs 9h]
+A awarded 400
+B awarded -400
+
+Round #352, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 6s]
+A dealt [Qh 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #353, A (457), B (-457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 2h]
+B dealt [9c 2c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #354, B (-456), A (456)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 3c]
+A dealt [9s 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #355, A (457), B (-457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Jc]
+B dealt [Qh 3h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #356, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Jh]
+A dealt [4c 7s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #357, A (457), B (-457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 7h]
+B dealt [8s 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #358, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 8s]
+A dealt [4h 4c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #359, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Ah]
+B dealt [3s 7d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #360, B (-462), A (462)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 6c]
+A dealt [3s 5d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #361, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 5d]
+B dealt [Td Qd]
+A raises to 4
+B calls
+Flop [Jd Js 5s], A (4), B (4)
+B checks
+A checks
+Turn [Jd Js 5s 6c], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #362, B (-464), A (464)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Ah]
+A dealt [9h 9s]
+B raises to 5
+A raises to 15
+B raises to 42
+A calls
+Flop [Js 2d Ad], B (42), A (42)
+A checks
+B bets 86
+A folds
+B awarded 42
+A awarded -42
+
+Round #363, A (422), B (-422)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Qh]
+B dealt [6h 9s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #364, B (-424), A (424)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 3c]
+A dealt [7h 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #365, A (425), B (-425)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 8c]
+B dealt [As 9s]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #366, B (-421), A (421)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 8c]
+A dealt [6d Ks]
+B raises to 5
+A calls
+Flop [Qd 3h 2c], B (5), A (5)
+A checks
+B checks
+Turn [Qd 3h 2c 7h], B (5), A (5)
+A checks
+B checks
+River [Qd 3h 2c 7h Ah], B (5), A (5)
+A checks
+B checks
+Run [Qd 3h 2c 7h Ah Jd], B (5), A (5)
+A checks
+B bets 12
+A attempted illegal CheckAction
+A folds
+B awarded 5
+A awarded -5
+
+Round #367, A (416), B (-416)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 6s]
+B dealt [Qh Jh]
+A raises to 4
+B raises to 14
+A calls
+Flop [Th 2s 7s], A (14), B (14)
+B checks
+A bets 14
+B folds
+A awarded 14
+B awarded -14
+
+Round #368, B (-430), A (430)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 3c]
+A dealt [8d Th]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #369, A (428), B (-428)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 6c]
+B dealt [Tc Ac]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #370, B (-424), A (424)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 3d]
+A dealt [2c Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #371, A (425), B (-425)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h 2d]
+B dealt [7c Ks]
+A folds
+A awarded -1
+B awarded 1
+
+Round #372, B (-424), A (424)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 3c]
+A dealt [9h Ac]
+B raises to 5
+A calls
+Flop [2s Jc 8h], B (5), A (5)
+A checks
+B checks
+Turn [2s Jc 8h 8c], B (5), A (5)
+A checks
+B checks
+River [2s Jc 8h 8c 7h], B (5), A (5)
+A checks
+B checks
+Run [2s Jc 8h 8c 7h 8s], B (5), A (5)
+A checks
+B checks
+B shows [Ad 3c]
+A shows [9h Ac]
+B awarded 0
+A awarded 0
+
+Round #373, A (424), B (-424)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc Ah]
+B dealt [5d Ks]
+A raises to 6
+B calls
+Flop [8s 3h Qd], A (6), B (6)
+B checks
+A checks
+Turn [8s 3h Qd 7h], A (6), B (6)
+B checks
+A checks
+River [8s 3h Qd 7h Jh], A (6), B (6)
+B checks
+A checks
+Run [8s 3h Qd 7h Jh 6h], A (6), B (6)
+B bets 14
+A attempted illegal CheckAction
+A folds
+A awarded -6
+B awarded 6
+
+Round #374, B (-418), A (418)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh Qh]
+A dealt [Js 6d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #375, A (416), B (-416)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 3s]
+B dealt [Qh Jd]
+A raises to 6
+B calls
+Flop [4d Ac 2s], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #376, B (-422), A (422)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s 5d]
+A dealt [Ac Th]
+B raises to 5
+A calls
+Flop [Qd 4c 9c], B (5), A (5)
+A checks
+B checks
+Turn [Qd 4c 9c 8s], B (5), A (5)
+A checks
+B checks
+River [Qd 4c 9c 8s Jd], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #377, A (427), B (-427)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s As]
+B dealt [7h 9d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #378, B (-429), A (429)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 9d]
+A dealt [Js Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #379, A (430), B (-430)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 9h]
+B dealt [2d 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #380, B (-432), A (432)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 7h]
+A dealt [4c 6c]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #381, A (437), B (-437)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 7c]
+B dealt [3c 7s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #382, B (-439), A (439)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts Ac]
+A dealt [Qc 3d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #383, A (437), B (-437)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 7s]
+B dealt [7c 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #384, B (-439), A (439)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 3s]
+A dealt [Jd Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #385, A (440), B (-440)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 2h]
+B dealt [9c 8s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #386, B (-439), A (439)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Qc]
+A dealt [8h 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #387, A (437), B (-437)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d Jh]
+B dealt [Qd Tc]
+A raises to 6
+B raises to 10
+A folds
+A awarded -6
+B awarded 6
+
+Round #388, B (-431), A (431)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 4c]
+A dealt [Th Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #389, A (432), B (-432)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Jh]
+B dealt [5c Ac]
+A raises to 4
+B raises to 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #390, B (-428), A (428)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 5c]
+A dealt [8c Th]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #391, A (426), B (-426)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Ad]
+B dealt [8c 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #392, B (-428), A (428)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Ac]
+A dealt [Jc Qc]
+B raises to 5
+A raises to 15
+B calls
+Flop [Kh 2h 7c], B (15), A (15)
+A checks
+B checks
+Turn [Kh 2h 7c Qh], B (15), A (15)
+A checks
+B checks
+River [Kh 2h 7c Qh 6s], B (15), A (15)
+A bets 15
+B folds
+B awarded -15
+A awarded 15
+
+Round #393, A (443), B (-443)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc Jh]
+B dealt [5c As]
+A raises to 6
+B calls
+Flop [Ac 9h 8h], A (6), B (6)
+B bets 14
+A calls
+Turn [Ac 9h 8h 6s], A (20), B (20)
+B bets 24
+A calls
+River [Ac 9h 8h 6s 2h], A (44), B (44)
+B bets 52
+A folds
+A awarded -44
+B awarded 44
+
+Round #394, B (-399), A (399)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 7s]
+A dealt [8h 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #395, A (400), B (-400)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d Tc]
+B dealt [3h 2c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #396, B (-402), A (402)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 8d]
+A dealt [2h 5c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #397, A (400), B (-400)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh Qc]
+B dealt [6h 8d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #398, B (-402), A (402)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Ah]
+A dealt [Qs 7c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #399, A (400), B (-400)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 3s]
+B dealt [2d 7h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #400, B (-402), A (402)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 9h]
+A dealt [8s 3h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #401, A (400), B (-400)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Kc]
+B dealt [Ts 9c]
+A raises to 4
+B calls
+Flop [8c 2s Qs], A (4), B (4)
+B bets 4
+A folds
+A awarded -4
+B awarded 4
+
+Round #402, B (-396), A (396)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Ad]
+A dealt [6c 3h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #403, A (394), B (-394)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js Tc]
+B dealt [2h 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #404, B (-396), A (396)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 8h]
+A dealt [2h 9c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #405, A (394), B (-394)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 9h]
+B dealt [7h 8s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #406, B (-396), A (396)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td Js]
+A dealt [Qd 9s]
+B raises to 5
+A calls
+Flop [5c 8c 2h], B (5), A (5)
+A checks
+B checks
+Turn [5c 8c 2h 7d], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #407, A (391), B (-391)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 3d]
+B dealt [Kd Ks]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #408, B (-387), A (387)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 3c]
+A dealt [Qs 8d]
+B raises to 5
+A calls
+Flop [Ks Ad 6d], B (5), A (5)
+A checks
+B checks
+Turn [Ks Ad 6d 9s], B (5), A (5)
+A checks
+B checks
+River [Ks Ad 6d 9s 4c], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #409, A (382), B (-382)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 2s]
+B dealt [9s 7h]
+A calls
+B checks
+Flop [3h Qc 5h], A (2), B (2)
+B checks
+A bets 2
+B folds
+A awarded 2
+B awarded -2
+
+Round #410, B (-384), A (384)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 8c]
+A dealt [Ah Qs]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #411, A (389), B (-389)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 8d]
+B dealt [5h Kh]
+A raises to 4
+B calls
+Flop [9c 2s Jd], A (4), B (4)
+B checks
+A checks
+Turn [9c 2s Jd Qc], A (4), B (4)
+B bets 4
+A folds
+A awarded -4
+B awarded 4
+
+Round #412, B (-385), A (385)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Ks]
+A dealt [Qd 9d]
+B raises to 5
+A calls
+Flop [Tc 8c Th], B (5), A (5)
+A checks
+B checks
+Turn [Tc 8c Th 4c], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #413, A (380), B (-380)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 3d]
+B dealt [5c 5s]
+A raises to 4
+B calls
+Flop [2h 9s Tc], A (4), B (4)
+B bets 6
+A calls
+Turn [2h 9s Tc 3s], A (10), B (10)
+B bets 12
+A folds
+A awarded -10
+B awarded 10
+
+Round #414, B (-370), A (370)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Js]
+A dealt [Td Jd]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #415, A (375), B (-375)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 3s]
+B dealt [4h Jc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #416, B (-374), A (374)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Qs]
+A dealt [2c Jh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #417, A (372), B (-372)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 6d]
+B dealt [Ad 8s]
+A raises to 4
+B raises to 6
+A calls
+Flop [2d Kc Js], A (6), B (6)
+B checks
+A checks
+Turn [2d Kc Js Qh], A (6), B (6)
+B bets 7
+A calls
+River [2d Kc Js Qh Kh], A (13), B (13)
+B bets 15
+A folds
+A awarded -13
+B awarded 13
+
+Round #418, B (-359), A (359)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 6h]
+A dealt [3c 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #419, A (357), B (-357)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c As]
+B dealt [Ad 6c]
+A raises to 4
+B raises to 6
+A calls
+Flop [Kc 2h 8c], A (6), B (6)
+B checks
+A checks
+Turn [Kc 2h 8c 4s], A (6), B (6)
+B checks
+A checks
+River [Kc 2h 8c 4s 5d], A (6), B (6)
+B bets 14
+A raises to 54
+B folds
+A awarded 20
+B awarded -20
+
+Round #420, B (-377), A (377)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 7s]
+A dealt [5d Kc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #421, A (375), B (-375)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 2c]
+B dealt [9d Th]
+A folds
+A awarded -1
+B awarded 1
+
+Round #422, B (-374), A (374)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah Ts]
+A dealt [3s 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #423, A (372), B (-372)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s 4h]
+B dealt [Js 2h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #424, B (-374), A (374)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Ad]
+A dealt [3d 2s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #425, A (372), B (-372)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Ad]
+B dealt [8d 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #426, B (-374), A (374)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Kc]
+A dealt [6d 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #427, A (372), B (-372)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 4h]
+B dealt [Td 8h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #428, B (-374), A (374)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 7d]
+A dealt [9s 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #429, A (375), B (-375)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h As]
+B dealt [8h 6s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #430, B (-377), A (377)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Kh]
+A dealt [4h Ac]
+B raises to 5
+A calls
+Flop [7c 9c 4d], B (5), A (5)
+A checks
+B checks
+Turn [7c 9c 4d Ks], B (5), A (5)
+A checks
+B bets 12
+A calls
+River [7c 9c 4d Ks 7h], B (17), A (17)
+A checks
+B bets 30
+A folds
+B awarded 17
+A awarded -17
+
+Round #431, A (360), B (-360)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d As]
+B dealt [9d Qh]
+A raises to 4
+B calls
+Flop [6c Ad 8h], A (4), B (4)
+B checks
+A checks
+Turn [6c Ad 8h 8s], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #432, B (-364), A (364)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 5c]
+A dealt [9d Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #433, A (365), B (-365)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 6h]
+B dealt [3c 4c]
+A raises to 4
+B calls
+Flop [7c Ks 8h], A (4), B (4)
+B checks
+A checks
+Turn [7c Ks 8h 2h], A (4), B (4)
+B checks
+A checks
+River [7c Ks 8h 2h 5s], A (4), B (4)
+B bets 10
+A folds
+A awarded -4
+B awarded 4
+
+Round #434, B (-361), A (361)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc As]
+A dealt [3h 4s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #435, A (359), B (-359)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 6d]
+B dealt [Js 4c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #436, B (-361), A (361)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 2s]
+A dealt [Jd 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #437, A (359), B (-359)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 2c]
+B dealt [8c 8h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #438, B (-358), A (358)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Ah]
+A dealt [2c 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #439, A (356), B (-356)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 2c]
+B dealt [Qc Qh]
+A raises to 4
+B raises to 14
+A calls
+Flop [Qd Th 6s], A (14), B (14)
+B bets 30
+A folds
+A awarded -14
+B awarded 14
+
+Round #440, B (-342), A (342)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 7s]
+A dealt [Qh 8d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #441, A (340), B (-340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Jc]
+B dealt [4h Jh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #442, B (-342), A (342)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Qc]
+A dealt [9h Jh]
+B raises to 5
+A raises to 15
+B raises to 42
+A folds
+B awarded 15
+A awarded -15
+
+Round #443, A (327), B (-327)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 6d]
+B dealt [Qc 2s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #444, B (-329), A (329)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Td]
+A dealt [Ah 9c]
+B raises to 5
+A calls
+Flop [5s 8s 8d], B (5), A (5)
+A checks
+B checks
+Turn [5s 8s 8d 2c], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #445, A (334), B (-334)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 5c]
+B dealt [3h 5h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #446, B (-336), A (336)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Kd]
+A dealt [Kc 8d]
+B raises to 5
+A calls
+Flop [6d Qd 5c], B (5), A (5)
+A checks
+B checks
+Turn [6d Qd 5c 7c], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #447, A (331), B (-331)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 6s]
+B dealt [Kc 9d]
+A raises to 4
+B raises to 6
+A calls
+Flop [4d 2h 2c], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #448, B (-337), A (337)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Js]
+A dealt [Td 7c]
+B raises to 5
+A calls
+Flop [2h 4h 2s], B (5), A (5)
+A checks
+B checks
+Turn [2h 4h 2s 5h], B (5), A (5)
+A checks
+B checks
+River [2h 4h 2s 5h Kh], B (5), A (5)
+A bets 10
+B calls
+Run [2h 4h 2s 5h Kh Jd], B (15), A (15)
+A checks
+B checks
+Run [2h 4h 2s 5h Kh Jd 8d], B (15), A (15)
+A checks
+B checks
+Run [2h 4h 2s 5h Kh Jd 8d 5s], B (15), A (15)
+A checks
+B checks
+B shows [Kd Js]
+A shows [Td 7c]
+B awarded 15
+A awarded -15
+
+Round #449, A (322), B (-322)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 6c]
+B dealt [8s 5h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #450, B (-324), A (324)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 3s]
+A dealt [3h Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #451, A (325), B (-325)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 3c]
+B dealt [Ad Qc]
+A raises to 6
+B raises to 18
+A folds
+A awarded -6
+B awarded 6
+
+Round #452, B (-319), A (319)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 3s]
+A dealt [3c 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #453, A (317), B (-317)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 7s]
+B dealt [Td 4d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #454, B (-319), A (319)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 9s]
+A dealt [4s Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #455, A (320), B (-320)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Jc]
+B dealt [2c Ts]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #456, B (-322), A (322)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Qs]
+A dealt [4h 5c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #457, A (320), B (-320)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s Tc]
+B dealt [5s 3s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #458, B (-322), A (322)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 6c]
+A dealt [9h Kd]
+B raises to 5
+A calls
+Flop [8h 7s Qd], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #459, A (317), B (-317)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Kh]
+B dealt [Qc Qd]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #460, B (-313), A (313)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 7h]
+A dealt [6h Ac]
+B raises to 5
+A calls
+Flop [Kc 7c Qs], B (5), A (5)
+A checks
+B bets 7
+A folds
+B awarded 5
+A awarded -5
+
+Round #461, A (308), B (-308)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah Ts]
+B dealt [Jh Th]
+A raises to 6
+B raises to 10
+A raises to 30
+B calls
+Flop [3c 8s Ad], A (30), B (30)
+B checks
+A bets 60
+B folds
+A awarded 30
+B awarded -30
+
+Round #462, B (-338), A (338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Tc]
+A dealt [Kc 7d]
+B raises to 5
+A calls
+Flop [Jh Qh 8s], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #463, A (333), B (-333)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h Th]
+B dealt [3h Qs]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #464, B (-335), A (335)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 6c]
+A dealt [Ks Kh]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #465, A (340), B (-340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 7s]
+B dealt [5h Ks]
+A raises to 4
+B calls
+Flop [4c Ad 8h], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #466, B (-344), A (344)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 9c]
+A dealt [3d 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #467, A (342), B (-342)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 5d]
+B dealt [Qc Jh]
+A raises to 4
+B raises to 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #468, B (-338), A (338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h Jh]
+A dealt [9s 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #469, A (336), B (-336)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th Qh]
+B dealt [2s 9s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #470, B (-338), A (338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 6s]
+A dealt [2d Qs]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #471, A (336), B (-336)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 6h]
+B dealt [6d 3h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #472, B (-338), A (338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Kd]
+A dealt [Qh Ks]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #473, A (343), B (-343)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Ac]
+B dealt [Qh Jd]
+A raises to 4
+B raises to 6
+A calls
+Flop [4d 6s Tc], A (6), B (6)
+B checks
+A checks
+Turn [4d 6s Tc Ts], A (6), B (6)
+B checks
+A checks
+River [4d 6s Tc Ts 3d], A (6), B (6)
+B checks
+A checks
+Run [4d 6s Tc Ts 3d Kh], A (6), B (6)
+B bets 14
+A attempted illegal CheckAction
+A folds
+A awarded -6
+B awarded 6
+
+Round #474, B (-337), A (337)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s Ad]
+A dealt [7h 9d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #475, A (335), B (-335)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 6d]
+B dealt [Ac Qh]
+A raises to 4
+B raises to 14
+A calls
+Flop [Jh Kh 8d], A (14), B (14)
+B bets 16
+A folds
+A awarded -14
+B awarded 14
+
+Round #476, B (-321), A (321)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 3s]
+A dealt [8d 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #477, A (322), B (-322)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 3s]
+B dealt [4h Ac]
+A calls
+B raises to 6
+A calls
+Flop [9c 8c 2h], A (6), B (6)
+B checks
+A checks
+Turn [9c 8c 2h 8s], A (6), B (6)
+B checks
+A checks
+River [9c 8c 2h 8s 8d], A (6), B (6)
+B checks
+A checks
+Run [9c 8c 2h 8s 8d 4d], A (6), B (6)
+B bets 14
+A attempted illegal CheckAction
+A folds
+A awarded -6
+B awarded 6
+
+Round #478, B (-316), A (316)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Qh]
+A dealt [9d Kd]
+B raises to 5
+A calls
+Flop [Ts 4s 5s], B (5), A (5)
+A checks
+B checks
+Turn [Ts 4s 5s 4c], B (5), A (5)
+A checks
+B checks
+River [Ts 4s 5s 4c 6s], B (5), A (5)
+A checks
+B checks
+B shows [9c Qh]
+A shows [9d Kd]
+B awarded -5
+A awarded 5
+
+Round #479, A (321), B (-321)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Ah]
+B dealt [Jd 9c]
+A calls
+B checks
+Flop [Kd 7c As], A (2), B (2)
+B checks
+A bets 2
+B folds
+A awarded 2
+B awarded -2
+
+Round #480, B (-323), A (323)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 9d]
+A dealt [Qd 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #481, A (321), B (-321)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d Tc]
+B dealt [9c Qd]
+A raises to 4
+B raises to 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #482, B (-317), A (317)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 4c]
+A dealt [3d Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #483, A (318), B (-318)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh Ac]
+B dealt [Kc Th]
+A raises to 4
+B raises to 6
+A calls
+Flop [7h Ah 7c], A (6), B (6)
+B checks
+A checks
+Turn [7h Ah 7c 9h], A (6), B (6)
+B checks
+A checks
+River [7h Ah 7c 9h 5c], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #484, B (-324), A (324)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 7d]
+A dealt [Ad 4d]
+B raises to 5
+A calls
+Flop [7s 8d 4h], B (5), A (5)
+A checks
+B bets 7
+A calls
+Turn [7s 8d 4h Jd], B (12), A (12)
+A checks
+B checks
+River [7s 8d 4h Jd 3c], B (12), A (12)
+A checks
+B checks
+B shows [Qd 7d]
+A shows [Ad 4d]
+B awarded 12
+A awarded -12
+
+Round #485, A (312), B (-312)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 2d]
+B dealt [6d Qd]
+A raises to 6
+B calls
+Flop [Th Jd 3s], A (6), B (6)
+B checks
+A checks
+Turn [Th Jd 3s Js], A (6), B (6)
+B checks
+A bets 12
+B folds
+A awarded 6
+B awarded -6
+
+Round #486, B (-318), A (318)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d Qc]
+A dealt [Jc 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #487, A (316), B (-316)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 9s]
+B dealt [4c 6c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #488, B (-318), A (318)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 6d]
+A dealt [8h 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #489, A (316), B (-316)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d Kc]
+B dealt [4h Ah]
+A raises to 6
+B raises to 10
+A folds
+A awarded -6
+B awarded 6
+
+Round #490, B (-310), A (310)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 5h]
+A dealt [2s 2h]
+B raises to 5
+A calls
+Flop [Kh Ts 7h], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #491, A (305), B (-305)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h 8c]
+B dealt [Th 7d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #492, B (-307), A (307)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 2c]
+A dealt [2s Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #493, A (308), B (-308)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 3h]
+B dealt [Qd 3s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #494, B (-310), A (310)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 4d]
+A dealt [7c 4h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #495, A (308), B (-308)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 4d]
+B dealt [8h 4h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #496, B (-310), A (310)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Qd]
+A dealt [8h 5c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #497, A (308), B (-308)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 8d]
+B dealt [Js Qs]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #498, B (-304), A (304)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 2h]
+A dealt [9h Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #499, A (305), B (-305)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Jh]
+B dealt [Js Td]
+A raises to 4
+B calls
+Flop [Qh Ts 2c], A (4), B (4)
+B bets 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #500, B (-301), A (301)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 6d]
+A dealt [7h 3c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #501, A (299), B (-299)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 9h]
+B dealt [3s 4c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #502, B (-301), A (301)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 5h]
+A dealt [Js 6c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #503, A (299), B (-299)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad Kc]
+B dealt [4h 9s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #504, B (-301), A (301)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 5h]
+A dealt [7s Qc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #505, A (299), B (-299)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 7s]
+B dealt [5h 9h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #506, B (-301), A (301)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 6d]
+A dealt [9d Qs]
+B raises to 5
+A calls
+Flop [Qd Qc 4c], B (5), A (5)
+A checks
+B checks
+Turn [Qd Qc 4c 8c], B (5), A (5)
+A bets 10
+B calls
+River [Qd Qc 4c 8c 2h], B (15), A (15)
+A bets 15
+B calls
+Run [Qd Qc 4c 8c 2h Ad], B (30), A (30)
+A checks
+B bets 36
+A attempted illegal CheckAction
+A folds
+B awarded 30
+A awarded -30
+
+Round #507, A (271), B (-271)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 7s]
+B dealt [Th Ah]
+A raises to 4
+B raises to 14
+A calls
+Flop [5s 9c Kd], A (14), B (14)
+B checks
+A bets 14
+B folds
+A awarded 14
+B awarded -14
+
+Round #508, B (-285), A (285)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Js]
+A dealt [9h 7c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #509, A (283), B (-283)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Tc]
+B dealt [5h 8s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #510, B (-285), A (285)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 9h]
+A dealt [Ad 9c]
+B raises to 5
+A calls
+Flop [3d 3s Qd], B (5), A (5)
+A checks
+B bets 9
+A calls
+Turn [3d 3s Qd Jh], B (14), A (14)
+A checks
+B bets 25
+A folds
+B awarded 14
+A awarded -14
+
+Round #511, A (271), B (-271)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc Ad]
+B dealt [Js 5h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #512, B (-273), A (273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 6s]
+A dealt [2c Ad]
+B raises to 5
+A calls
+Flop [2s 7h 9d], B (5), A (5)
+A checks
+B checks
+Turn [2s 7h 9d 4s], B (5), A (5)
+A checks
+B checks
+River [2s 7h 9d 4s 7c], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #513, A (278), B (-278)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks Kc]
+B dealt [Td 7h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #514, B (-280), A (280)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 2d]
+A dealt [Ac Td]
+B raises to 5
+A calls
+Flop [3h 3c 8d], B (5), A (5)
+A checks
+B checks
+Turn [3h 3c 8d 6h], B (5), A (5)
+A checks
+B checks
+River [3h 3c 8d 6h 3s], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #515, A (285), B (-285)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 3c]
+B dealt [7c 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #516, B (-287), A (287)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Qc]
+A dealt [7d 5d]
+B raises to 5
+A calls
+Flop [9s Ts Ks], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #517, A (282), B (-282)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 3c]
+B dealt [As 3h]
+A raises to 6
+B calls
+Flop [4d 5c 6d], A (6), B (6)
+B bets 14
+A calls
+Turn [4d 5c 6d Jc], A (20), B (20)
+B bets 42
+A folds
+A awarded -20
+B awarded 20
+
+Round #518, B (-262), A (262)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c As]
+A dealt [Jd 9s]
+B raises to 5
+A calls
+Flop [6d 9h 3d], B (5), A (5)
+A checks
+B checks
+Turn [6d 9h 3d 8c], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #519, A (267), B (-267)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s Ac]
+B dealt [6d Qh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #520, B (-269), A (269)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h Ac]
+A dealt [Jh 7s]
+B raises to 5
+A calls
+Flop [3d 4s 2c], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #521, A (264), B (-264)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 7s]
+B dealt [Qh 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #522, B (-266), A (266)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 3d]
+A dealt [7s 8d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #523, A (264), B (-264)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 3d]
+B dealt [9h 2c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #524, B (-266), A (266)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 8h]
+A dealt [Jd Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #525, A (267), B (-267)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 6s]
+B dealt [Th Qs]
+A raises to 6
+B calls
+Flop [8h Jd 3c], A (6), B (6)
+B bets 7
+A calls
+Turn [8h Jd 3c Kh], A (13), B (13)
+B bets 28
+A folds
+A awarded -13
+B awarded 13
+
+Round #526, B (-254), A (254)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Jh]
+A dealt [6c Ad]
+B raises to 5
+A calls
+Flop [Td Qd 3s], B (5), A (5)
+A checks
+B checks
+Turn [Td Qd 3s 8h], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #527, A (249), B (-249)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 3s]
+B dealt [6c 7d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #528, B (-251), A (251)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 8d]
+A dealt [8h Jd]
+B raises to 5
+A calls
+Flop [7d Kd Ad], B (5), A (5)
+A checks
+B checks
+Turn [7d Kd Ad Ah], B (5), A (5)
+A checks
+B checks
+River [7d Kd Ad Ah 3c], B (5), A (5)
+A checks
+B checks
+B shows [Ts 8d]
+A shows [8h Jd]
+B awarded -5
+A awarded 5
+
+Round #529, A (256), B (-256)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac Qc]
+B dealt [Qd 7h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #530, B (-258), A (258)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Ks]
+A dealt [4s 7c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #531, A (256), B (-256)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 4d]
+B dealt [Qh Ah]
+A raises to 6
+B raises to 18
+A folds
+A awarded -6
+B awarded 6
+
+Round #532, B (-250), A (250)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 7h]
+A dealt [6c Qs]
+B raises to 5
+A calls
+Flop [Js 2c Ac], B (5), A (5)
+A checks
+B checks
+Turn [Js 2c Ac 5d], B (5), A (5)
+A checks
+B bets 7
+A folds
+B awarded 5
+A awarded -5
+
+Round #533, A (245), B (-245)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 3c]
+B dealt [6d Kd]
+A folds
+A awarded -1
+B awarded 1
+
+Round #534, B (-244), A (244)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d Jd]
+A dealt [6s 5c]
+B raises to 5
+A calls
+Flop [Tc 2s 9c], B (5), A (5)
+A checks
+B checks
+Turn [Tc 2s 9c 7h], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #535, A (249), B (-249)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 5c]
+B dealt [6d 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #536, B (-251), A (251)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 8h]
+A dealt [Ks 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #537, A (252), B (-252)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 9s]
+B dealt [7d Ah]
+A raises to 6
+B calls
+Flop [Js 2c Qc], A (6), B (6)
+B checks
+A checks
+Turn [Js 2c Qc Td], A (6), B (6)
+B bets 7
+A calls
+River [Js 2c Qc Td 2d], A (13), B (13)
+B bets 15
+A folds
+A awarded -13
+B awarded 13
+
+Round #538, B (-239), A (239)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 8d]
+A dealt [7d 7h]
+B raises to 5
+A calls
+Flop [Jc 4s Ah], B (5), A (5)
+A checks
+B checks
+Turn [Jc 4s Ah Js], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #539, A (244), B (-244)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 6h]
+B dealt [4h Tc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #540, B (-246), A (246)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h 2s]
+A dealt [5c 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #541, A (247), B (-247)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h Qd]
+B dealt [6c 4c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #542, B (-249), A (249)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Ks]
+A dealt [Qd 3d]
+B raises to 5
+A calls
+Flop [Jh 3c 2h], B (5), A (5)
+A checks
+B checks
+Turn [Jh 3c 2h 5c], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #543, A (254), B (-254)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 9c]
+B dealt [9s 9h]
+A raises to 6
+B raises to 18
+A folds
+A awarded -6
+B awarded 6
+
+Round #544, B (-248), A (248)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 2h]
+A dealt [Jh 8s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #545, A (246), B (-246)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 6h]
+B dealt [2s 5d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #546, B (-248), A (248)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s Kd]
+A dealt [9h 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #547, A (246), B (-246)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 4h]
+B dealt [Tc Ts]
+A raises to 6
+B raises to 18
+A calls
+Flop [7s 7h As], A (18), B (18)
+B bets 21
+A folds
+A awarded -18
+B awarded 18
+
+Round #548, B (-228), A (228)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 7s]
+A dealt [9d 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #549, A (229), B (-229)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 8c]
+B dealt [Kd Ts]
+A raises to 4
+B raises to 6
+A calls
+Flop [Jc 4h 6s], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #550, B (-235), A (235)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 2s]
+A dealt [8c Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #551, A (236), B (-236)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Ah]
+B dealt [8h 6h]
+A raises to 6
+B calls
+Flop [2d 2s 3d], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #552, B (-242), A (242)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc Kh]
+A dealt [Kc Jh]
+B raises to 5
+A calls
+Flop [4d 2d 7s], B (5), A (5)
+A checks
+B checks
+Turn [4d 2d 7s 2s], B (5), A (5)
+A checks
+B checks
+River [4d 2d 7s 2s 4c], B (5), A (5)
+A checks
+B checks
+B shows [Tc Kh]
+A shows [Kc Jh]
+B awarded 0
+A awarded 0
+
+Round #553, A (242), B (-242)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 2h]
+B dealt [5h Tc]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #554, B (-244), A (244)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 7d]
+A dealt [Qd Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #555, A (245), B (-245)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Jc]
+B dealt [5h Qc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #556, B (-247), A (247)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 2h]
+A dealt [7c 2c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #557, A (248), B (-248)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh 3h]
+B dealt [8s 9c]
+A calls
+B raises to 7
+A calls
+Flop [6d 4h 7d], A (7), B (7)
+B bets 16
+A folds
+A awarded -7
+B awarded 7
+
+Round #558, B (-241), A (241)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 4s]
+A dealt [7c Jc]
+B raises to 5
+A calls
+Flop [5c 6s 6c], B (5), A (5)
+A checks
+B bets 9
+A calls
+Turn [5c 6s 6c Js], B (14), A (14)
+A checks
+B bets 16
+A calls
+River [5c 6s 6c Js As], B (30), A (30)
+A checks
+B bets 24
+A folds
+B awarded 30
+A awarded -30
+
+Round #559, A (211), B (-211)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 5s]
+B dealt [Ad Qh]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #560, B (-207), A (207)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 5h]
+A dealt [Ac 2c]
+B raises to 5
+A calls
+Flop [6c Ks 9d], B (5), A (5)
+A checks
+B checks
+Turn [6c Ks 9d Td], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #561, A (212), B (-212)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Kc]
+B dealt [Ad 4h]
+A raises to 4
+B calls
+Flop [4s 6c 2h], A (4), B (4)
+B checks
+A bets 4
+B calls
+Turn [4s 6c 2h 3c], A (8), B (8)
+B checks
+A checks
+River [4s 6c 2h 3c 7s], A (8), B (8)
+B checks
+A checks
+A shows [Jd Kc]
+B shows [Ad 4h]
+A awarded -8
+B awarded 8
+
+Round #562, B (-204), A (204)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 6c]
+A dealt [4d 8s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #563, A (202), B (-202)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 4h]
+B dealt [Ac Ad]
+A raises to 6
+B raises to 18
+A folds
+A awarded -6
+B awarded 6
+
+Round #564, B (-196), A (196)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 6s]
+A dealt [4h 9s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #565, A (194), B (-194)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Js]
+B dealt [Kc 9c]
+A raises to 6
+B calls
+Flop [5c 6h Qh], A (6), B (6)
+B checks
+A checks
+Turn [5c 6h Qh Ah], A (6), B (6)
+B checks
+A checks
+River [5c 6h Qh Ah 8c], A (6), B (6)
+B bets 7
+A calls
+A shows [Jd Js]
+B shows [Kc 9c]
+A awarded 13
+B awarded -13
+
+Round #566, B (-207), A (207)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c Tc]
+A dealt [7c 7s]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #567, A (212), B (-212)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Qc]
+B dealt [Th 8d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #568, B (-214), A (214)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 7c]
+A dealt [Ks 9c]
+B raises to 5
+A calls
+Flop [2s 6c 9d], B (5), A (5)
+A checks
+B bets 7
+A calls
+Turn [2s 6c 9d 3h], B (12), A (12)
+A checks
+B bets 14
+A calls
+River [2s 6c 9d 3h 7d], B (26), A (26)
+A checks
+B bets 54
+A calls
+Run [2s 6c 9d 3h 7d 8h], B (80), A (80)
+A checks
+B bets 128
+A attempted illegal CheckAction
+A folds
+B awarded 80
+A awarded -80
+
+Round #569, A (134), B (-134)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s Ah]
+B dealt [8d Ad]
+A raises to 4
+B raises to 14
+A calls
+Flop [5d 8s 6c], A (14), B (14)
+B bets 22
+A folds
+A awarded -14
+B awarded 14
+
+Round #570, B (-120), A (120)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Qs]
+A dealt [6d Tc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #571, A (118), B (-118)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Ah]
+B dealt [9h Js]
+A raises to 4
+B calls
+Flop [Td 2h Kh], A (4), B (4)
+B bets 4
+A calls
+Turn [Td 2h Kh Th], A (8), B (8)
+B bets 9
+A calls
+River [Td 2h Kh Th 2s], A (17), B (17)
+B bets 20
+A folds
+A awarded -17
+B awarded 17
+
+Round #572, B (-101), A (101)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 3h]
+A dealt [2d 8c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #573, A (102), B (-102)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 4h]
+B dealt [8d 5h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #574, B (-104), A (104)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 5d]
+A dealt [4c 8c]
+B raises to 5
+A calls
+Flop [2c 7d Kd], B (5), A (5)
+A checks
+B checks
+Turn [2c 7d Kd 6h], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #575, A (109), B (-109)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Th]
+B dealt [Kd 4c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #576, B (-111), A (111)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Kc]
+A dealt [7s As]
+B raises to 5
+A raises to 15
+B calls
+Flop [7d Td Jc], B (15), A (15)
+A checks
+B checks
+Turn [7d Td Jc 4c], B (15), A (15)
+A checks
+B checks
+River [7d Td Jc 4c 4d], B (15), A (15)
+A bets 15
+B folds
+B awarded -15
+A awarded 15
+
+Round #577, A (126), B (-126)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 2h]
+B dealt [4s As]
+A folds
+A awarded -1
+B awarded 1
+
+Round #578, B (-125), A (125)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 8c]
+A dealt [Ad 8h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #579, A (126), B (-126)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh Qs]
+B dealt [3h 5c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #580, B (-128), A (128)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 2d]
+A dealt [6h 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #581, A (129), B (-129)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 6d]
+B dealt [Kh 4d]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #582, B (-131), A (131)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Ts]
+A dealt [5d 7d]
+B raises to 5
+A calls
+Flop [4c 7s 9d], B (5), A (5)
+A checks
+B bets 7
+A calls
+Turn [4c 7s 9d Tc], B (12), A (12)
+A checks
+B bets 26
+A folds
+B awarded 12
+A awarded -12
+
+Round #583, A (119), B (-119)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 3d]
+B dealt [5d 7s]
+A calls
+B checks
+Flop [7d 3h 6c], A (2), B (2)
+B bets 2
+A calls
+Turn [7d 3h 6c 9c], A (4), B (4)
+B bets 10
+A folds
+A awarded -4
+B awarded 4
+
+Round #584, B (-115), A (115)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 5d]
+A dealt [2d 7c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #585, A (113), B (-113)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Jd]
+B dealt [8c 7h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #586, B (-115), A (115)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 7s]
+A dealt [2d 5d]
+B raises to 5
+A calls
+Flop [7h 6c 2c], B (5), A (5)
+A checks
+B bets 12
+A calls
+Turn [7h 6c 2c Ts], B (17), A (17)
+A checks
+B bets 27
+A folds
+B awarded 17
+A awarded -17
+
+Round #587, A (98), B (-98)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Td]
+B dealt [9c 2s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #588, B (-100), A (100)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 4s]
+A dealt [7d Kc]
+B raises to 5
+A calls
+Flop [Qc Tc 3h], B (5), A (5)
+A checks
+B checks
+Turn [Qc Tc 3h Js], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #589, A (105), B (-105)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As Jc]
+B dealt [3d 6h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #590, B (-107), A (107)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s Ts]
+A dealt [Kh 9h]
+B raises to 5
+A calls
+Flop [Qh Qs 3h], B (5), A (5)
+A checks
+B checks
+Turn [Qh Qs 3h Kd], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #591, A (112), B (-112)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 3h]
+B dealt [4d Ac]
+A raises to 6
+B calls
+Flop [Jh 5c Qs], A (6), B (6)
+B checks
+A checks
+Turn [Jh 5c Qs Js], A (6), B (6)
+B checks
+A checks
+River [Jh 5c Qs Js As], A (6), B (6)
+B bets 10
+A folds
+A awarded -6
+B awarded 6
+
+Round #592, B (-106), A (106)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Jd]
+A dealt [5s 6s]
+B raises to 5
+A raises to 25
+B calls
+Flop [6d 7c Jh], B (25), A (25)
+A checks
+B bets 40
+A calls
+Turn [6d 7c Jh 3h], B (65), A (65)
+A checks
+B bets 104
+A folds
+B awarded 65
+A awarded -65
+
+Round #593, A (41), B (-41)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c As]
+B dealt [9s 7d]
+A calls
+B checks
+Flop [6d Qh Jh], A (2), B (2)
+B checks
+A checks
+Turn [6d Qh Jh 2d], A (2), B (2)
+B checks
+A checks
+River [6d Qh Jh 2d Qc], A (2), B (2)
+B checks
+A bets 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #594, B (-43), A (43)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 5h]
+A dealt [Ac Kc]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #595, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td Jc]
+B dealt [6d 5s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #596, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Jc]
+A dealt [6h 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #597, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 6h]
+B dealt [4c 2s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #598, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As Ac]
+A dealt [2c 6c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #599, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 2c]
+B dealt [Jd 4s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #600, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 7c]
+A dealt [4h 6d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #601, A (48), B (-48)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 4d]
+B dealt [2s 9c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #602, B (-50), A (50)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc Tc]
+A dealt [Jh As]
+B raises to 5
+A raises to 15
+B calls
+Flop [5h 4h 2s], B (15), A (15)
+A checks
+B checks
+Turn [5h 4h 2s 4d], B (15), A (15)
+A bets 15
+B folds
+B awarded -15
+A awarded 15
+
+Round #603, A (65), B (-65)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Ad]
+B dealt [9s 5h]
+A calls
+B checks
+Flop [Ah 5d Ks], A (2), B (2)
+B checks
+A bets 2
+B calls
+Turn [Ah 5d Ks 3d], A (4), B (4)
+B checks
+A bets 16
+B folds
+A awarded 4
+B awarded -4
+
+Round #604, B (-69), A (69)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 9c]
+A dealt [2d Kh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #605, A (67), B (-67)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Qd]
+B dealt [Ks 6s]
+A raises to 4
+B calls
+Flop [2s 4h 2c], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #606, B (-71), A (71)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc Qd]
+A dealt [3c Th]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #607, A (69), B (-69)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 6s]
+B dealt [7c 2c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #608, B (-71), A (71)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d Ac]
+A dealt [7h 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #609, A (69), B (-69)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c Qc]
+B dealt [Kd 4c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #610, B (-71), A (71)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 9d]
+A dealt [2h 7c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #611, A (69), B (-69)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 7d]
+B dealt [4h 6s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #612, B (-71), A (71)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h Jc]
+A dealt [Th 6c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #613, A (69), B (-69)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 8h]
+B dealt [5d Kc]
+A raises to 4
+B calls
+Flop [Jc 7d 6h], A (4), B (4)
+B checks
+A checks
+Turn [Jc 7d 6h 9s], A (4), B (4)
+B bets 4
+A raises to 20
+B folds
+A awarded 8
+B awarded -8
+
+Round #614, B (-77), A (77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 6d]
+A dealt [Kh 9c]
+B raises to 5
+A calls
+Flop [Th 2s 7c], B (5), A (5)
+A checks
+B bets 6
+A calls
+Turn [Th 2s 7c 2d], B (11), A (11)
+A checks
+B bets 13
+A folds
+B awarded 11
+A awarded -11
+
+Round #615, A (66), B (-66)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 9h]
+B dealt [Jd 3c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #616, B (-68), A (68)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 2h]
+A dealt [Ah 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #617, A (69), B (-69)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 3d]
+B dealt [2h 7d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #618, B (-68), A (68)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 7h]
+A dealt [Js 2d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #619, A (69), B (-69)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 8s]
+B dealt [5d Ah]
+A raises to 4
+B raises to 6
+A calls
+Flop [4s Tc 8d], A (6), B (6)
+B checks
+A checks
+Turn [4s Tc 8d 6s], A (6), B (6)
+B bets 7
+A calls
+River [4s Tc 8d 6s Td], A (13), B (13)
+B bets 15
+A calls
+Run [4s Tc 8d 6s Td 7s], A (28), B (28)
+B bets 31
+A attempted illegal CheckAction
+A folds
+A awarded -28
+B awarded 28
+
+Round #620, B (-41), A (41)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h Qh]
+A dealt [Kd Ks]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #621, A (46), B (-46)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 2c]
+B dealt [3c Th]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #622, B (-48), A (48)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 8d]
+A dealt [2c 4h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #623, A (46), B (-46)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad Tc]
+B dealt [Kc Jd]
+A raises to 6
+B raises to 18
+A calls
+Flop [Qc 3d 8d], A (18), B (18)
+B checks
+A checks
+Turn [Qc 3d 8d Js], A (18), B (18)
+B bets 20
+A calls
+River [Qc 3d 8d Js 2d], A (38), B (38)
+B bets 40
+A calls
+Run [Qc 3d 8d Js 2d 2h], A (78), B (78)
+B bets 62
+A attempted illegal CheckAction
+A folds
+A awarded -78
+B awarded 78
+
+Round #624, B (32), A (-32)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 5s]
+A dealt [Qd Ac]
+B raises to 5
+A raises to 25
+B folds
+B awarded -5
+A awarded 5
+
+Round #625, A (-27), B (27)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts Kc]
+B dealt [9d Qh]
+A raises to 4
+B raises to 6
+A calls
+Flop [Ad 7c Ac], A (6), B (6)
+B checks
+A checks
+Turn [Ad 7c Ac 8c], A (6), B (6)
+B checks
+A checks
+River [Ad 7c Ac 8c Qc], A (6), B (6)
+B checks
+A bets 12
+B calls
+A shows [Ts Kc]
+B shows [9d Qh]
+A awarded 18
+B awarded -18
+
+Round #626, B (9), A (-9)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 7c]
+A dealt [Js 3h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #627, A (-11), B (11)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 3h]
+B dealt [Ah 6d]
+A raises to 4
+B calls
+Flop [7c Kc Th], A (4), B (4)
+B checks
+A checks
+Turn [7c Kc Th Ac], A (4), B (4)
+B bets 10
+A folds
+A awarded -4
+B awarded 4
+
+Round #628, B (15), A (-15)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Qd]
+A dealt [9s 8d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #629, A (-17), B (17)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac Ts]
+B dealt [Jc 5s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #630, B (15), A (-15)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d 7c]
+A dealt [Kc 6d]
+B raises to 5
+A calls
+Flop [6h Jd 2c], B (5), A (5)
+A checks
+B checks
+Turn [6h Jd 2c 3c], B (5), A (5)
+A checks
+B checks
+River [6h Jd 2c 3c 4d], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #631, A (-10), B (10)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Kd]
+B dealt [5h Jc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #632, B (8), A (-8)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 6h]
+A dealt [2d 8c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #633, A (-10), B (10)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 6c]
+B dealt [2s 6s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #634, B (8), A (-8)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 2h]
+A dealt [Td 4d]
+B raises to 5
+A calls
+Flop [8s 3c 7h], B (5), A (5)
+A checks
+B checks
+Turn [8s 3c 7h 7d], B (5), A (5)
+A bets 10
+B folds
+B awarded -5
+A awarded 5
+
+Round #635, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 4c]
+B dealt [8s 2c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #636, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 3h]
+A dealt [Jh Qs]
+B raises to 5
+A calls
+Flop [Qd 5c Ah], B (5), A (5)
+A checks
+B checks
+Turn [Qd 5c Ah 5h], B (5), A (5)
+A checks
+B checks
+River [Qd 5c Ah 5h Kc], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #637, A (4), B (-4)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c Jd]
+B dealt [7c Kc]
+A raises to 4
+B calls
+Flop [9c 7s 4d], A (4), B (4)
+B bets 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #638, B (0), A (0)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 5h]
+A dealt [Qh 7d]
+B raises to 5
+A calls
+Flop [Ah Kh 8h], B (5), A (5)
+A checks
+B checks
+Turn [Ah Kh 8h Qc], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #639, A (5), B (-5)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 9h]
+B dealt [5d Qd]
+A raises to 6
+B calls
+Flop [4s 8d 6s], A (6), B (6)
+B bets 7
+A calls
+Turn [4s 8d 6s Kc], A (13), B (13)
+B bets 15
+A folds
+A awarded -13
+B awarded 13
+
+Round #640, B (8), A (-8)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 5s]
+A dealt [Kd Th]
+B raises to 5
+A calls
+Flop [Qh Jh Kc], B (5), A (5)
+A checks
+B bets 12
+A calls
+Turn [Qh Jh Kc 4s], B (17), A (17)
+A checks
+B bets 36
+A calls
+River [Qh Jh Kc 4s 9h], B (53), A (53)
+A checks
+B bets 84
+A calls
+Run [Qh Jh Kc 4s 9h Qs], B (137), A (137)
+A checks
+B checks
+B shows [Kh 5s]
+A shows [Kd Th]
+B awarded -137
+A awarded 137
+
+Round #641, A (129), B (-129)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 9d]
+B dealt [2h 9s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #642, B (-131), A (131)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 4d]
+A dealt [Th 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #643, A (132), B (-132)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s Ts]
+B dealt [8s Jh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #644, B (-134), A (134)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 7d]
+A dealt [Js 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #645, A (135), B (-135)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 4h]
+B dealt [5d Jh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #646, B (-137), A (137)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 3s]
+A dealt [2c Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #647, A (138), B (-138)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Tc]
+B dealt [4d Kh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #648, B (-140), A (140)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Jd]
+A dealt [6d 5h]
+B raises to 5
+A calls
+Flop [6h 6s 8d], B (5), A (5)
+A checks
+B checks
+Turn [6h 6s 8d 9d], B (5), A (5)
+A bets 10
+B calls
+River [6h 6s 8d 9d 3s], B (15), A (15)
+A bets 30
+B calls
+B shows [9s Jd]
+A shows [6d 5h]
+B awarded -45
+A awarded 45
+
+Round #649, A (185), B (-185)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 9c]
+B dealt [7d Qh]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #650, B (-187), A (187)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 3h]
+A dealt [2c 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #651, A (188), B (-188)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd Tc]
+B dealt [As 7s]
+A raises to 4
+B raises to 14
+A calls
+Flop [9d 3c 8h], A (14), B (14)
+B checks
+A checks
+Turn [9d 3c 8h Qd], A (14), B (14)
+B checks
+A bets 28
+B folds
+A awarded 14
+B awarded -14
+
+Round #652, B (-202), A (202)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 5c]
+A dealt [6c 3c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #653, A (200), B (-200)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Qd]
+B dealt [4d 5s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #654, B (-202), A (202)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 3h]
+A dealt [9c Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #655, A (203), B (-203)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 7d]
+B dealt [9h 7h]
+A raises to 4
+B calls
+Flop [Th 6c 9c], A (4), B (4)
+B bets 4
+A calls
+Turn [Th 6c 9c Js], A (8), B (8)
+B bets 18
+A folds
+A awarded -8
+B awarded 8
+
+Round #656, B (-195), A (195)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 5h]
+A dealt [6d Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #657, A (196), B (-196)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 5d]
+B dealt [Qc 8h]
+A raises to 4
+B calls
+Flop [8s 2d Ac], A (4), B (4)
+B checks
+A bets 4
+B calls
+Turn [8s 2d Ac Js], A (8), B (8)
+B checks
+A checks
+River [8s 2d Ac Js 4h], A (8), B (8)
+B bets 5
+A folds
+A awarded -8
+B awarded 8
+
+Round #658, B (-188), A (188)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 8d]
+A dealt [3h 5h]
+B raises to 5
+A calls
+Flop [8c Ad Tc], B (5), A (5)
+A bets 5
+B raises to 17
+A folds
+B awarded 10
+A awarded -10
+
+Round #659, A (178), B (-178)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 4c]
+B dealt [5h 5c]
+A raises to 4
+B calls
+Flop [Jc 7h 2c], A (4), B (4)
+B bets 6
+A calls
+Turn [Jc 7h 2c 4s], A (10), B (10)
+B bets 12
+A calls
+River [Jc 7h 2c 4s Qd], A (22), B (22)
+B checks
+A checks
+Run [Jc 7h 2c 4s Qd 9h], A (22), B (22)
+B bets 10
+A calls
+Run [Jc 7h 2c 4s Qd 9h Ks], A (32), B (32)
+B checks
+A checks
+A shows [Ah 4c]
+B shows [5h 5c]
+A awarded -32
+B awarded 32
+
+Round #660, B (-146), A (146)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 6h]
+A dealt [Kc 6d]
+B raises to 5
+A calls
+Flop [7d 2h 7c], B (5), A (5)
+A checks
+B checks
+Turn [7d 2h 7c 8h], B (5), A (5)
+A checks
+B bets 12
+A folds
+B awarded 5
+A awarded -5
+
+Round #661, A (141), B (-141)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 7h]
+B dealt [7s Kh]
+A raises to 4
+B calls
+Flop [Js Qc 5d], A (4), B (4)
+B checks
+A bets 4
+B folds
+A awarded 4
+B awarded -4
+
+Round #662, B (-145), A (145)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 5s]
+A dealt [Ac 6s]
+B raises to 5
+A calls
+Flop [Ks 4d 2d], B (5), A (5)
+A checks
+B bets 8
+A folds
+B awarded 5
+A awarded -5
+
+Round #663, A (140), B (-140)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 3c]
+B dealt [2d 5s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #664, B (-142), A (142)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Ks]
+A dealt [Ah 8h]
+B raises to 5
+A raises to 15
+B calls
+Flop [7s 2c 5s], B (15), A (15)
+A checks
+B checks
+Turn [7s 2c 5s 6c], B (15), A (15)
+A checks
+B bets 32
+A folds
+B awarded 15
+A awarded -15
+
+Round #665, A (127), B (-127)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 8d]
+B dealt [7d Qh]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #666, B (-129), A (129)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 5s]
+A dealt [Ah 6d]
+B raises to 5
+A calls
+Flop [2c 6s 7s], B (5), A (5)
+A checks
+B checks
+Turn [2c 6s 7s Jd], B (5), A (5)
+A checks
+B checks
+River [2c 6s 7s Jd Ks], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #667, A (134), B (-134)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 7d]
+B dealt [2s 4d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #668, B (-136), A (136)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 3c]
+A dealt [Ts Qd]
+B raises to 5
+A calls
+Flop [Tc Jc 4h], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #669, A (141), B (-141)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 5c]
+B dealt [Jh 2s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #670, B (-143), A (143)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 9s]
+A dealt [8d Kc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #671, A (141), B (-141)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 7s]
+B dealt [5h As]
+A raises to 4
+B raises to 6
+A calls
+Flop [Qh 3h 6s], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #672, B (-147), A (147)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 6c]
+A dealt [2s 8s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #673, A (145), B (-145)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s Kd]
+B dealt [7d 8d]
+A calls
+B raises to 7
+A folds
+A awarded -2
+B awarded 2
+
+Round #674, B (-143), A (143)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 2s]
+A dealt [Tc Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #675, A (144), B (-144)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 8s]
+B dealt [6h Tc]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #676, B (-146), A (146)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc Tc]
+A dealt [5h 7h]
+B raises to 5
+A calls
+Flop [8c 3h 3c], B (5), A (5)
+A checks
+B checks
+Turn [8c 3h 3c Ks], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #677, A (151), B (-151)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 8s]
+B dealt [Th Jc]
+A raises to 4
+B raises to 6
+A calls
+Flop [Qc Jh Js], A (6), B (6)
+B bets 14
+A folds
+A awarded -6
+B awarded 6
+
+Round #678, B (-145), A (145)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Ts]
+A dealt [3c Th]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #679, A (143), B (-143)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Ks]
+B dealt [7c 5h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #680, B (-145), A (145)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 4s]
+A dealt [2h Ts]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #681, A (143), B (-143)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h 7c]
+B dealt [Kd 8d]
+A raises to 6
+B calls
+Flop [Ks Qd 4s], A (6), B (6)
+B bets 14
+A folds
+A awarded -6
+B awarded 6
+
+Round #682, B (-137), A (137)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Td]
+A dealt [4d As]
+B raises to 5
+A calls
+Flop [Jd Th 4h], B (5), A (5)
+A checks
+B bets 8
+A calls
+Turn [Jd Th 4h 3h], B (13), A (13)
+A checks
+B bets 20
+A folds
+B awarded 13
+A awarded -13
+
+Round #683, A (124), B (-124)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 3c]
+B dealt [Th Jh]
+A calls
+B raises to 7
+A calls
+Flop [As Ah 6h], A (7), B (7)
+B checks
+A checks
+Turn [As Ah 6h 7d], A (7), B (7)
+B checks
+A checks
+River [As Ah 6h 7d Jd], A (7), B (7)
+B bets 12
+A folds
+A awarded -7
+B awarded 7
+
+Round #684, B (-117), A (117)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 2h]
+A dealt [Kc 3h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #685, A (118), B (-118)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 8c]
+B dealt [2d 4c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #686, B (-120), A (120)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Ac]
+A dealt [8c 5s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #687, A (118), B (-118)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac Kh]
+B dealt [2h 7s]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #688, B (-120), A (120)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 6d]
+A dealt [7h Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #689, A (121), B (-121)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 6s]
+B dealt [Jc 4h]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #690, B (-123), A (123)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 6h]
+A dealt [9d 9c]
+B raises to 5
+A raises to 15
+B folds
+B awarded -5
+A awarded 5
+
+Round #691, A (128), B (-128)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 2d]
+B dealt [Jc 4d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #692, B (-127), A (127)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 7h]
+A dealt [6d Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #693, A (128), B (-128)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 5s]
+B dealt [Qs 8h]
+A raises to 6
+B raises to 10
+A calls
+Flop [2c Kc 9c], A (10), B (10)
+B checks
+A checks
+Turn [2c Kc 9c Ts], A (10), B (10)
+B bets 22
+A folds
+A awarded -10
+B awarded 10
+
+Round #694, B (-118), A (118)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 2d]
+A dealt [3d Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #695, A (119), B (-119)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 5c]
+B dealt [8c 3d]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #696, B (-121), A (121)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Jd]
+A dealt [8c Qc]
+B raises to 5
+A calls
+Flop [Ac Ts 9s], B (5), A (5)
+A checks
+B checks
+Turn [Ac Ts 9s Tc], B (5), A (5)
+A checks
+B checks
+River [Ac Ts 9s Tc 2c], B (5), A (5)
+A checks
+B checks
+B shows [3h Jd]
+A shows [8c Qc]
+B awarded -5
+A awarded 5
+
+Round #697, A (126), B (-126)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 9s]
+B dealt [Kc 9c]
+A raises to 4
+B raises to 6
+A folds
+A awarded -4
+B awarded 4
+
+Round #698, B (-122), A (122)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Jh]
+A dealt [6s Ts]
+B raises to 5
+A calls
+Flop [9s 6d 3c], B (5), A (5)
+A checks
+B checks
+Turn [9s 6d 3c 3s], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #699, A (127), B (-127)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 3s]
+B dealt [Ks 5d]
+A raises to 6
+B calls
+Flop [Qd 9s 7h], A (6), B (6)
+B checks
+A checks
+Turn [Qd 9s 7h 2h], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #700, B (-133), A (133)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 7d]
+A dealt [4c Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #701, A (134), B (-134)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 3c]
+B dealt [Kh 4c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #702, B (-136), A (136)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 6d]
+A dealt [4s 7c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #703, A (134), B (-134)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 6s]
+B dealt [Ah 8d]
+A raises to 4
+B calls
+Flop [2s 9h 3h], A (4), B (4)
+B checks
+A bets 8
+B folds
+A awarded 4
+B awarded -4
+
+Round #704, B (-138), A (138)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 5h]
+A dealt [Ks 7c]
+B raises to 5
+A calls
+Flop [Jc Js 3d], B (5), A (5)
+A checks
+B checks
+Turn [Jc Js 3d 4s], B (5), A (5)
+A checks
+B checks
+River [Jc Js 3d 4s 5c], B (5), A (5)
+A checks
+B bets 6
+A folds
+B awarded 5
+A awarded -5
+
+Round #705, A (133), B (-133)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 6c]
+B dealt [7s 4h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #706, B (-135), A (135)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 2d]
+A dealt [9d Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #707, A (136), B (-136)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 2h]
+B dealt [7s 9c]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #708, B (-138), A (138)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d 2s]
+A dealt [4c 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #709, A (139), B (-139)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 4d]
+B dealt [8h 2c]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #710, B (-141), A (141)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h Td]
+A dealt [Jh 6c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #711, A (139), B (-139)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 9d]
+B dealt [3d 2s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #712, B (-141), A (141)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 7c]
+A dealt [3s 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #713, A (139), B (-139)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 8h]
+B dealt [3c Ac]
+A raises to 4
+B calls
+Flop [3d 7s 7c], A (4), B (4)
+B bets 4
+A calls
+Turn [3d 7s 7c Qs], A (8), B (8)
+B bets 6
+A calls
+River [3d 7s 7c Qs 3h], A (14), B (14)
+B bets 30
+A folds
+A awarded -14
+B awarded 14
+
+Round #714, B (-125), A (125)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 5h]
+A dealt [Qd 9h]
+B raises to 5
+A calls
+Flop [5c 7h 2s], B (5), A (5)
+A checks
+B bets 7
+A folds
+B awarded 5
+A awarded -5
+
+Round #715, A (120), B (-120)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh Ac]
+B dealt [5s Kd]
+A raises to 6
+B calls
+Flop [2s 3h Qd], A (6), B (6)
+B checks
+A bets 6
+B folds
+A awarded 6
+B awarded -6
+
+Round #716, B (-126), A (126)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Tc]
+A dealt [9h Ad]
+B raises to 5
+A calls
+Flop [5c Qd 6c], B (5), A (5)
+A checks
+B checks
+Turn [5c Qd 6c 9c], B (5), A (5)
+A checks
+B bets 12
+A calls
+River [5c Qd 6c 9c 3h], B (17), A (17)
+A checks
+B bets 36
+A folds
+B awarded 17
+A awarded -17
+
+Round #717, A (109), B (-109)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 4d]
+B dealt [2d 5h]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #718, B (-111), A (111)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 7d]
+A dealt [6c 9d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #719, A (109), B (-109)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h Kd]
+B dealt [2h Qh]
+A raises to 6
+B folds
+A awarded 2
+B awarded -2
+
+Round #720, B (-111), A (111)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 3d]
+A dealt [Qh 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #721, A (109), B (-109)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Qd]
+B dealt [9h Jc]
+A raises to 4
+B calls
+Flop [9d 9s 5c], A (4), B (4)
+B bets 10
+A folds
+A awarded -4
+B awarded 4
+
+Round #722, B (-105), A (105)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 2s]
+A dealt [Js 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #723, A (106), B (-106)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h 8c]
+B dealt [4h Kh]
+A raises to 4
+B calls
+Flop [Js Qc 7c], A (4), B (4)
+B checks
+A checks
+Turn [Js Qc 7c 7d], A (4), B (4)
+B checks
+A checks
+River [Js Qc 7c 7d Jc], A (4), B (4)
+B checks
+A bets 8
+B folds
+A awarded 4
+B awarded -4
+
+Round #724, B (-110), A (110)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts Th]
+A dealt [7d Kd]
+B raises to 5
+A calls
+Flop [2s 3c Qc], B (5), A (5)
+A checks
+B bets 8
+A folds
+B awarded 5
+A awarded -5
+
+Round #725, A (105), B (-105)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 2d]
+B dealt [8s 4s]
+A raises to 4
+B folds
+A awarded 2
+B awarded -2
+
+Round #726, B (-107), A (107)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 2h]
+A dealt [7c 4c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #727, A (108), B (-108)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Qh]
+B dealt [As Th]
+A raises to 4
+B raises to 14
+A folds
+A awarded -4
+B awarded 4
+
+Round #728, B (-104), A (104)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 5s]
+A dealt [Ad 5c]
+B raises to 5
+A calls
+Flop [Qs Ac 3d], B (5), A (5)
+A bets 5
+B folds
+B awarded -5
+A awarded 5
+
+Round #729, A (109), B (-109)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Ts]
+B dealt [Ac 6h]
+A raises to 4
+B raises to 6
+A calls
+Flop [5d 8c 9d], A (6), B (6)
+B bets 7
+A calls
+Turn [5d 8c 9d Th], A (13), B (13)
+B bets 28
+A calls
+River [5d 8c 9d Th Jh], A (41), B (41)
+B checks
+A checks
+Run [5d 8c 9d Th Jh 9c], A (41), B (41)
+B checks
+A checks
+A shows [Jd Ts]
+B shows [Ac 6h]
+A awarded 41
+B awarded -41
+
+Round #730, B (-150), A (150)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js Ac]
+A dealt [Jh 6h]
+B raises to 5
+A calls
+Flop [Th Qh Kc], B (5), A (5)
+A checks
+B bets 12
+A calls
+Turn [Th Qh Kc Ah], B (17), A (17)
+A checks
+B bets 20
+A raises to 168
+B raises to 316
+A raises to 383
+B calls
+River [Th Qh Kc Ah 8d], B (400), A (400)
+A checks
+B checks
+Run [Th Qh Kc Ah 8d As], B (400), A (400)
+A checks
+B checks
+B shows [Js Ac]
+A shows [Jh 6h]
+B awarded -400
+A awarded 400
+
+Round #731, A (550), B (-550)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Th]
+B dealt [2c 9h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #732, B (-549), A (549)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 4d]
+A dealt [Js Jh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #733, A (547), B (-547)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 5h]
+B dealt [Th 2s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #734, B (-546), A (546)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks As]
+A dealt [6s 5s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #735, A (544), B (-544)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Ts]
+B dealt [Th 9h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #736, B (-543), A (543)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 9c]
+A dealt [Ac 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #737, A (541), B (-541)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 3c]
+B dealt [4c Tc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #738, B (-540), A (540)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 4s]
+A dealt [Js Qc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #739, A (538), B (-538)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Js]
+B dealt [Qs 6s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #740, B (-537), A (537)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c Qh]
+A dealt [Tc Kd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #741, A (535), B (-535)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 7h]
+B dealt [Jh 2d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #742, B (-534), A (534)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Js]
+A dealt [4s Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #743, A (535), B (-535)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 5s]
+B dealt [3c 2d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #744, B (-534), A (534)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Qs]
+A dealt [6d 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #745, A (532), B (-532)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 3h]
+B dealt [Qh Kc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #746, B (-531), A (531)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 7s]
+A dealt [6c Ts]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #747, A (529), B (-529)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 7s]
+B dealt [Tc Kc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #748, B (-528), A (528)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Kh]
+A dealt [2d Ks]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #749, A (526), B (-526)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Ts]
+B dealt [8d 9d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #750, B (-525), A (525)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 6s]
+A dealt [8c As]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #751, A (523), B (-523)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h Ks]
+B dealt [8c 8h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #752, B (-522), A (522)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 5d]
+A dealt [7s 6d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #753, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 2s]
+B dealt [9c As]
+A folds
+A awarded -1
+B awarded 1
+
+Round #754, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 2h]
+A dealt [8h Ad]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #755, A (517), B (-517)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 8c]
+B dealt [5c Ah]
+A folds
+A awarded -1
+B awarded 1
+
+Round #756, B (-516), A (516)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 7c]
+A dealt [8h 7d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #757, A (514), B (-514)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 3s]
+B dealt [Th 9c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #758, B (-513), A (513)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 7s]
+A dealt [6h 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #759, A (511), B (-511)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 4c]
+B dealt [Th 3s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #760, B (-510), A (510)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 8s]
+A dealt [5c Kd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #761, A (508), B (-508)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Ts]
+B dealt [Kh Qh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #762, B (-507), A (507)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 5s]
+A dealt [Ac Jd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #763, A (505), B (-505)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 2d]
+B dealt [Jh 5s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #764, B (-504), A (504)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Qc]
+A dealt [7d 3d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #765, A (502), B (-502)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Jc]
+B dealt [4c 2s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #766, B (-501), A (501)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 2c]
+A dealt [5d Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #767, A (502), B (-502)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 4d]
+B dealt [5h Td]
+A folds
+A awarded -1
+B awarded 1
+
+Round #768, B (-501), A (501)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 8s]
+A dealt [8c Ac]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #769, A (499), B (-499)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 2c]
+B dealt [Td 9c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #770, B (-498), A (498)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 7s]
+A dealt [2s 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #771, A (496), B (-496)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Tc]
+B dealt [Ad 7c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #772, B (-495), A (495)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 6c]
+A dealt [Jh 3s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #773, A (493), B (-493)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 3c]
+B dealt [5h Kc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #774, B (-492), A (492)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d Th]
+A dealt [2c Ac]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #775, A (490), B (-490)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d As]
+B dealt [Qd 8c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #776, B (-489), A (489)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Ks]
+A dealt [7c 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #777, A (487), B (-487)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad Jc]
+B dealt [Jd Ts]
+A folds
+A awarded -1
+B awarded 1
+
+Round #778, B (-486), A (486)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 5c]
+A dealt [4s Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #779, A (487), B (-487)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc As]
+B dealt [4s 6s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #780, B (-486), A (486)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 6d]
+A dealt [Qs Ac]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #781, A (484), B (-484)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 3c]
+B dealt [4c Ad]
+A folds
+A awarded -1
+B awarded 1
+
+Round #782, B (-483), A (483)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 3s]
+A dealt [Qh 6d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #783, A (484), B (-484)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Ad]
+B dealt [Qc 8d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #784, B (-483), A (483)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Qd]
+A dealt [As Jc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #785, A (481), B (-481)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Qs]
+B dealt [Ad 3d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #786, B (-480), A (480)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Jc]
+A dealt [2c 6d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #787, A (478), B (-478)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 2d]
+B dealt [Jh 9d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #788, B (-477), A (477)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 3h]
+A dealt [Ac Qd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #789, A (475), B (-475)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 3h]
+B dealt [7c Jd]
+A folds
+A awarded -1
+B awarded 1
+
+Round #790, B (-474), A (474)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 8s]
+A dealt [2d Ts]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #791, A (472), B (-472)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h 9d]
+B dealt [9s 5h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #792, B (-471), A (471)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 4h]
+A dealt [Kh Tc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #793, A (469), B (-469)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 4h]
+B dealt [As Jc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #794, B (-468), A (468)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 8s]
+A dealt [3d 5d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #795, A (466), B (-466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c Qs]
+B dealt [2s 2h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #796, B (-465), A (465)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 7h]
+A dealt [Qd 9s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #797, A (463), B (-463)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h Qd]
+B dealt [3h 9c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #798, B (-462), A (462)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Ad]
+A dealt [7s 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #799, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Ks]
+B dealt [5d 2s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #800, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 7d]
+A dealt [Td 8c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #801, A (457), B (-457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 9s]
+B dealt [3s Ac]
+A folds
+A awarded -1
+B awarded 1
+
+Round #802, B (-456), A (456)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Jh]
+A dealt [6s 7s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #803, A (454), B (-454)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 8c]
+B dealt [5s 2h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #804, B (-453), A (453)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js Td]
+A dealt [5c As]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #805, A (451), B (-451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 3d]
+B dealt [4d 5s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #806, B (-450), A (450)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc Ac]
+A dealt [Qd 3d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #807, A (448), B (-448)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td Jd]
+B dealt [Jh 8h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #808, B (-447), A (447)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c Ah]
+A dealt [Th Ks]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #809, A (445), B (-445)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh 8s]
+B dealt [7d Jc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #810, B (-444), A (444)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 9s]
+A dealt [5c 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #811, A (445), B (-445)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 5d]
+B dealt [6h Qh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #812, B (-444), A (444)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 8h]
+A dealt [3c 5c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #813, A (442), B (-442)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Td]
+B dealt [Jd Qc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #814, B (-441), A (441)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Kc]
+A dealt [2c 9c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #815, A (439), B (-439)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Ks]
+B dealt [7d Qd]
+A folds
+A awarded -1
+B awarded 1
+
+Round #816, B (-438), A (438)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Jd]
+A dealt [Qd 3d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #817, A (436), B (-436)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 2d]
+B dealt [8d 3s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #818, B (-435), A (435)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 8h]
+A dealt [3c 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #819, A (433), B (-433)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h Qh]
+B dealt [9c 2s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #820, B (-432), A (432)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Ts]
+A dealt [4h Td]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #821, A (430), B (-430)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad As]
+B dealt [7c Qc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #822, B (-429), A (429)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Td]
+A dealt [Kc Qd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #823, A (427), B (-427)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 8c]
+B dealt [9s 6c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #824, B (-426), A (426)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 4c]
+A dealt [8h 8s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #825, A (424), B (-424)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh Ts]
+B dealt [8c 3c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #826, B (-423), A (423)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h As]
+A dealt [Ah Qd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #827, A (421), B (-421)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 2s]
+B dealt [8c Ac]
+A folds
+A awarded -1
+B awarded 1
+
+Round #828, B (-420), A (420)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 2h]
+A dealt [Qd Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #829, A (421), B (-421)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 4s]
+B dealt [Js 4d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #830, B (-420), A (420)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Ks]
+A dealt [Kd 9h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #831, A (418), B (-418)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s 3s]
+B dealt [7c 5h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #832, B (-417), A (417)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Kh]
+A dealt [7h 6s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #833, A (415), B (-415)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 9s]
+B dealt [4s 9h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #834, B (-414), A (414)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 8c]
+A dealt [9d Ts]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #835, A (412), B (-412)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 8h]
+B dealt [Th 5c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #836, B (-411), A (411)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Ac]
+A dealt [Kh 3h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #837, A (409), B (-409)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d As]
+B dealt [Jh Qc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #838, B (-408), A (408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 4s]
+A dealt [Jd 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #839, A (409), B (-409)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d Qh]
+B dealt [2s Ks]
+A folds
+A awarded -1
+B awarded 1
+
+Round #840, B (-408), A (408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Ks]
+A dealt [Js Ah]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #841, A (406), B (-406)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 8h]
+B dealt [Qd 2c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #842, B (-405), A (405)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 3s]
+A dealt [8c 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #843, A (406), B (-406)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s Jd]
+B dealt [5h Kd]
+A folds
+A awarded -1
+B awarded 1
+
+Round #844, B (-405), A (405)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 2d]
+A dealt [Qd 3s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #845, A (403), B (-403)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh Kc]
+B dealt [3s 7c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #846, B (-402), A (402)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h 6h]
+A dealt [4d As]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #847, A (400), B (-400)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 6d]
+B dealt [4c As]
+A folds
+A awarded -1
+B awarded 1
+
+Round #848, B (-399), A (399)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc Js]
+A dealt [5s 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #849, A (397), B (-397)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 2c]
+B dealt [7s 2s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #850, B (-396), A (396)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc Jd]
+A dealt [5h Jh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #851, A (394), B (-394)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 7d]
+B dealt [5s 7s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #852, B (-393), A (393)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 6s]
+A dealt [Qh 4c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #853, A (391), B (-391)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 4c]
+B dealt [5s Kh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #854, B (-390), A (390)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 8s]
+A dealt [Tc 9h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #855, A (388), B (-388)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 6c]
+B dealt [2d Ks]
+A folds
+A awarded -1
+B awarded 1
+
+Round #856, B (-387), A (387)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 6s]
+A dealt [3d 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #857, A (385), B (-385)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 6c]
+B dealt [Ts Jd]
+A folds
+A awarded -1
+B awarded 1
+
+Round #858, B (-384), A (384)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Kh]
+A dealt [5c 5h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #859, A (382), B (-382)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 2s]
+B dealt [8d 2h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #860, B (-381), A (381)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 7d]
+A dealt [9s Qh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #861, A (379), B (-379)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 9c]
+B dealt [8s 2h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #862, B (-378), A (378)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d Ah]
+A dealt [5d Ac]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #863, A (376), B (-376)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc Ad]
+B dealt [5c Kd]
+A folds
+A awarded -1
+B awarded 1
+
+Round #864, B (-375), A (375)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 7d]
+A dealt [9d As]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #865, A (373), B (-373)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 5s]
+B dealt [5h 6s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #866, B (-372), A (372)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh Qc]
+A dealt [4h 6c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #867, A (370), B (-370)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 7d]
+B dealt [As 7c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #868, B (-369), A (369)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 7h]
+A dealt [Qc 5d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #869, A (367), B (-367)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Ac]
+B dealt [7c 8s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #870, B (-366), A (366)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h 8h]
+A dealt [Tc 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #871, A (364), B (-364)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 2s]
+B dealt [Kh 6c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #872, B (-363), A (363)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 9d]
+A dealt [5d 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #873, A (361), B (-361)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 8c]
+B dealt [Th Ah]
+A folds
+A awarded -1
+B awarded 1
+
+Round #874, B (-360), A (360)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 2s]
+A dealt [8d Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #875, A (361), B (-361)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 2c]
+B dealt [Qh 8s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #876, B (-360), A (360)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c Qc]
+A dealt [9c 7d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #877, A (358), B (-358)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Th]
+B dealt [Tc 3d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #878, B (-357), A (357)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh As]
+A dealt [6h 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #879, A (355), B (-355)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c Ts]
+B dealt [6d 5c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #880, B (-354), A (354)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Jc]
+A dealt [3h 4s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #881, A (352), B (-352)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 3c]
+B dealt [5d 9h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #882, B (-351), A (351)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 6s]
+A dealt [6h 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #883, A (349), B (-349)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s Kc]
+B dealt [Th 3c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #884, B (-348), A (348)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Qc]
+A dealt [4c Ah]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #885, A (346), B (-346)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 3d]
+B dealt [7h 3c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #886, B (-345), A (345)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 7h]
+A dealt [Jc 3s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #887, A (343), B (-343)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Th]
+B dealt [9h 3h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #888, B (-342), A (342)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Kd]
+A dealt [Jd Kh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #889, A (340), B (-340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 2h]
+B dealt [4c Qh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #890, B (-339), A (339)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As Tc]
+A dealt [2s 9s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #891, A (337), B (-337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Js]
+B dealt [7s 9s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #892, B (-336), A (336)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 6d]
+A dealt [4h Kh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #893, A (334), B (-334)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d As]
+B dealt [6s 5s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #894, B (-333), A (333)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 3h]
+A dealt [6c Js]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #895, A (331), B (-331)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 9h]
+B dealt [5c 3h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #896, B (-330), A (330)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 9d]
+A dealt [5s Jd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #897, A (328), B (-328)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Jc]
+B dealt [7h 3d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #898, B (-327), A (327)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d As]
+A dealt [Qh Jc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #899, A (325), B (-325)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 6h]
+B dealt [7s 3s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #900, B (-324), A (324)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 2d]
+A dealt [3s 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #901, A (325), B (-325)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 8s]
+B dealt [8c Th]
+A folds
+A awarded -1
+B awarded 1
+
+Round #902, B (-324), A (324)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 7h]
+A dealt [Jd 9c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #903, A (322), B (-322)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 4c]
+B dealt [5c 7d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #904, B (-321), A (321)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 7s]
+A dealt [Tc 9c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #905, A (319), B (-319)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Th]
+B dealt [6d Ks]
+A folds
+A awarded -1
+B awarded 1
+
+Round #906, B (-318), A (318)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 8h]
+A dealt [Td 6c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #907, A (316), B (-316)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 3s]
+B dealt [Ks Ad]
+A folds
+A awarded -1
+B awarded 1
+
+Round #908, B (-315), A (315)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Jc]
+A dealt [3h 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #909, A (313), B (-313)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh Ad]
+B dealt [Ah 4s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #910, B (-312), A (312)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Td]
+A dealt [6d 6h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #911, A (310), B (-310)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h 7s]
+B dealt [2c Ac]
+A folds
+A awarded -1
+B awarded 1
+
+Round #912, B (-309), A (309)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 3s]
+A dealt [6c 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #913, A (310), B (-310)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Kd]
+B dealt [Kc 2s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #914, B (-309), A (309)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 2c]
+A dealt [Kc 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #915, A (310), B (-310)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 7d]
+B dealt [Ac Js]
+A folds
+A awarded -1
+B awarded 1
+
+Round #916, B (-309), A (309)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad Ah]
+A dealt [Tc 5c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #917, A (307), B (-307)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h Ks]
+B dealt [9c 7d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #918, B (-306), A (306)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 3c]
+A dealt [Ah Ts]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #919, A (304), B (-304)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Qc]
+B dealt [As Js]
+A folds
+A awarded -1
+B awarded 1
+
+Round #920, B (-303), A (303)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Jh]
+A dealt [5s 3h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #921, A (301), B (-301)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 7d]
+B dealt [2h Qc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #922, B (-300), A (300)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c Jc]
+A dealt [3s 7d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #923, A (298), B (-298)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 8d]
+B dealt [6s 3d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #924, B (-297), A (297)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Tc]
+A dealt [Kh 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #925, A (295), B (-295)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 9s]
+B dealt [7c 6h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #926, B (-294), A (294)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 4s]
+A dealt [4c 2d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #927, A (292), B (-292)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 7s]
+B dealt [Qs 2d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #928, B (-291), A (291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 6s]
+A dealt [5c As]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #929, A (289), B (-289)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 2d]
+B dealt [5h 7h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #930, B (-288), A (288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 2s]
+A dealt [Ks 5d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #931, A (286), B (-286)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 3h]
+B dealt [4d Kc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #932, B (-285), A (285)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Jd]
+A dealt [6s Td]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #933, A (283), B (-283)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 6c]
+B dealt [2d 4d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #934, B (-282), A (282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 2d]
+A dealt [3s Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #935, A (283), B (-283)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 7h]
+B dealt [5s Ah]
+A folds
+A awarded -1
+B awarded 1
+
+Round #936, B (-282), A (282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Jh]
+A dealt [2d Qc]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #937, A (280), B (-280)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 4h]
+B dealt [Th 6d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #938, B (-279), A (279)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts Td]
+A dealt [Kh Th]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #939, A (277), B (-277)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 6s]
+B dealt [Qd Kc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #940, B (-276), A (276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 7d]
+A dealt [Ad 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #941, A (277), B (-277)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 4s]
+B dealt [Kd 8s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #942, B (-276), A (276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 5d]
+A dealt [2d 8c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #943, A (274), B (-274)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 2s]
+B dealt [Ks Ad]
+A folds
+A awarded -1
+B awarded 1
+
+Round #944, B (-273), A (273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Ad]
+A dealt [3s Ks]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #945, A (271), B (-271)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 7s]
+B dealt [5c 3c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #946, B (-270), A (270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Kd]
+A dealt [Ks 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #947, A (268), B (-268)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Ks]
+B dealt [Qd 5s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #948, B (-267), A (267)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 4c]
+A dealt [2h 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #949, A (268), B (-268)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks Ad]
+B dealt [4d Ah]
+A folds
+A awarded -1
+B awarded 1
+
+Round #950, B (-267), A (267)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d 9s]
+A dealt [8c Kd]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #951, A (265), B (-265)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Kd]
+B dealt [7c Th]
+A folds
+A awarded -1
+B awarded 1
+
+Round #952, B (-264), A (264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Th]
+A dealt [9h 3h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #953, A (262), B (-262)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Qc]
+B dealt [5c 8c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #954, B (-261), A (261)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 9d]
+A dealt [Jd 7d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #955, A (259), B (-259)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js Jd]
+B dealt [Kc Kh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #956, B (-258), A (258)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 4c]
+A dealt [4h Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #957, A (259), B (-259)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Qd]
+B dealt [Qc Ad]
+A folds
+A awarded -1
+B awarded 1
+
+Round #958, B (-258), A (258)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Qs]
+A dealt [Ad 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #959, A (256), B (-256)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 4h]
+B dealt [Kd 9s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #960, B (-255), A (255)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 7c]
+A dealt [Kc Qs]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #961, A (253), B (-253)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 9s]
+B dealt [3d Ac]
+A folds
+A awarded -1
+B awarded 1
+
+Round #962, B (-252), A (252)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td Kh]
+A dealt [7s Qs]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #963, A (250), B (-250)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c Qh]
+B dealt [6s Jh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #964, B (-249), A (249)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 2c]
+A dealt [8c Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #965, A (250), B (-250)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 6c]
+B dealt [Th 5s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #966, B (-249), A (249)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 3d]
+A dealt [3c 4d]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #967, A (247), B (-247)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs Jh]
+B dealt [Th 7h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #968, B (-246), A (246)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 3d]
+A dealt [8h 9c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #969, A (244), B (-244)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d Js]
+B dealt [8d Kh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #970, B (-243), A (243)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js Qh]
+A dealt [4h 3s]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #971, A (241), B (-241)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 6d]
+B dealt [Jh 9c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #972, B (-240), A (240)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 5c]
+A dealt [4s Ad]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #973, A (238), B (-238)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 6c]
+B dealt [Js 3c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #974, B (-237), A (237)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 4d]
+A dealt [8s Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #975, A (238), B (-238)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 4s]
+B dealt [2s 8c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #976, B (-237), A (237)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As Ks]
+A dealt [6s Kh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #977, A (235), B (-235)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc Jd]
+B dealt [Qd Ah]
+A folds
+A awarded -1
+B awarded 1
+
+Round #978, B (-234), A (234)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 8s]
+A dealt [Qs Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #979, A (235), B (-235)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 9c]
+B dealt [Ts 3s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #980, B (-234), A (234)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 6s]
+A dealt [3h 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #981, A (235), B (-235)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 3s]
+B dealt [3d 8d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #982, B (-234), A (234)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 2h]
+A dealt [9s 2c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #983, A (232), B (-232)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs Td]
+B dealt [Ks 7c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #984, B (-231), A (231)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 5s]
+A dealt [Qs 6h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #985, A (229), B (-229)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 7h]
+B dealt [8c 8h]
+A folds
+A awarded -1
+B awarded 1
+
+Round #986, B (-228), A (228)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Ah]
+A dealt [Tc 4h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #987, A (226), B (-226)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 5d]
+B dealt [3c Qs]
+A folds
+A awarded -1
+B awarded 1
+
+Round #988, B (-225), A (225)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 4c]
+A dealt [Ad Ac]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #989, A (223), B (-223)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 3d]
+B dealt [2c Qc]
+A folds
+A awarded -1
+B awarded 1
+
+Round #990, B (-222), A (222)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Ks]
+A dealt [Qc 2h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #991, A (220), B (-220)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Ac]
+B dealt [6c 3d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #992, B (-219), A (219)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 7d]
+A dealt [6c Qs]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #993, A (217), B (-217)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d Ah]
+B dealt [6d Qh]
+A folds
+A awarded -1
+B awarded 1
+
+Round #994, B (-216), A (216)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Ad]
+A dealt [Jd 7h]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #995, A (214), B (-214)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 2h]
+B dealt [2d 3s]
+A folds
+A awarded -1
+B awarded 1
+
+Round #996, B (-213), A (213)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 5d]
+A dealt [As Jh]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #997, A (211), B (-211)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 8c]
+B dealt [Qh 5d]
+A folds
+A awarded -1
+B awarded 1
+
+Round #998, B (-210), A (210)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 7s]
+A dealt [3s 3c]
+B raises to 5
+A folds
+B awarded 2
+A awarded -2
+
+Round #999, A (208), B (-208)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Js]
+B dealt [3h 4c]
+A folds
+A awarded -1
+B awarded 1
+
+Round #1000, B (-207), A (207)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 3d]
+A dealt [9c Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Final, A (208), B (-208)
