@@ -1,2 +1,2 @@
-# poker-bot
-MIT 2023 Pokerbot
+# MIT 2023 Pokerbots Submission
+
