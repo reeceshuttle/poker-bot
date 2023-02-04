@@ -10,9 +10,5 @@ for hand_num in range(1000):
             hand_range[hand] = hand_range[hand]*2/3
 
 
-
-
-
-
 end = time.time()
 print(f'total time for 1000 hands updates:{end-start}')
