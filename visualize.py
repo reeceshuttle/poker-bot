@@ -1,7 +1,10 @@
 import matplotlib.pyplot as plt
 
-num_hands = 500000
+# total number of hands
+num_hands = 1000
+# interval at which you graph
 divider = 1
+# the file name of the results
 file_name = 'gamelog.txt'
 
 A_plus_minus = [0]

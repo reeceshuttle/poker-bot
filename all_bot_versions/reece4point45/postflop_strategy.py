@@ -43,12 +43,11 @@ def FirstToActStrategy(game_state, round_state, active, we_aggress):
     pot_size = 800 - my_stack - opp_stack
 
     max_board_suits, msuit = helpers.MaxSuitCount(board_cards)
-    total_hand_suits, _ = helpers.MaxSuitCount(board_cards+my_cards)
     straight_possibilities = helpers.StraightsCheck(board_cards)
     straight_draws = helpers.StraightsCheck(board_cards+my_cards)
     flush_draws = helpers.FlushDrawCheck(my_cards+board_cards)
     board_rank_occurances = helpers.RankOccuranceCheck(board_cards)
-    pairs = helpers.PairChecker(my_cards, board_cards)
+    pairs = helpers.PairChecker(board_cards+my_cards)
 
     # --------------- strategy: --------------------
     # We want a strategy of betting with made hands and draws
@@ -71,9 +70,9 @@ def FirstToActStrategy(game_state, round_state, active, we_aggress):
                 if random.random() < 0.15: return RaiseAction(max_raise)
                 else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
 
-            elif 2 in flush_rank:
+            elif 2 in flush_rank or 3 in flush_rank:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
-            elif 3 in flush_rank:
+            elif 4 in flush_rank:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size))))
             else:
                 return CheckAction()
@@ -83,11 +82,8 @@ def FirstToActStrategy(game_state, round_state, active, we_aggress):
                 else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
             elif 2 in flush_rank or 3 in flush_rank:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
-            elif 3 in flush_rank:
+            elif 4 in flush_rank:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size))))
-            # elif 4 in flush_rank:
-            #     # return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size))))
-            #     return CheckAction()
             else:
                 if random.random() < 0.4: return RaiseAction(min_raise)
                 else: return CheckAction()
@@ -97,20 +93,16 @@ def FirstToActStrategy(game_state, round_state, active, we_aggress):
         if max_board_suits <= 3 and straight_possibilities[5] == 0 and straight_possibilities[4] == 0:
             return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
         elif max_board_suits <= 3 and straight_possibilities[5] == 0:
-            return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+3))))
+            return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size+3))))
         else:
             return CheckAction()
 
     # ------straight and flush draw checks here???:------ (we need to check if we contribute the straight draws/flush draws)
-    elif max_board_suits == 2 and total_hand_suits == 4:
-        return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
+    elif straight_draws[4] >= 2 and straight_possibilities[4] == 0:
+        return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
 
-    elif straight_draws[4] >= 2 and straight_possibilities[4] == 0 and street < 5 and max_board_suits<4:
-        return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
-
-    elif straight_draws[4] == 1 and straight_possibilities[4] == 0 and street == 3 and max_board_suits<4:
+    elif straight_draws[4] == 1 and straight_possibilities[4] == 0:
         return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size))))
-
     #----------------------------------------------------
     
     elif made_hand == "Trips":
@@ -118,50 +110,51 @@ def FirstToActStrategy(game_state, round_state, active, we_aggress):
         if board_rank_occurances[3]>0: # trips on board
             return CheckAction()
         elif max_board_suits < 4 and straight_possibilities[4] == 0:
-            return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
+            return RaiseAction(min(max_raise, max(min_raise, int(1.2*pot_size+2))))
         else:
             bl = 1 if max_board_suits == 4 else 0
             if random.random()>(9*bl+4*straight_possibilities[4])/20: return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size+2))))
             else: return CheckAction()
 
     elif made_hand == "Two Pair":
-        two_pair_checks = helpers.TwoPairValueChecker(my_cards, board_cards) # returns rank of pairs THAT WE CONTRIBUTE
-        if max_board_suits == 4 or straight_possibilities[4] > 1: # many draws
-                if 1 in two_pair_checks and we_aggress:
-                    return RaiseAction(min(max_raise, max(min_raise, min(int(0.7*pot_size), 90))))
-                else:
-                    return CheckAction()
 
         if board_rank_occurances[2]>=2:
-            if 1 in two_pair_checks and we_aggress:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.7*pot_size), 90))))
-            elif 2 in two_pair_checks and random.random() < 0.5 and pot_size < 70 and we_aggress:
-                return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size))))
-            else:
-                return CheckAction()
-
+            return CheckAction()
+        # el
+        #     if board_rank_occurances[2] == 0 or random.random()<0.15:
+        #         # if not we_aggress and random.random() > 0.5:
+        #         #     return CheckAction()
+        #         # else:
+        #             return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+        #     else:
+        #         return CheckAction()
         elif board_rank_occurances[2]==1:
-            if 1 in two_pair_checks:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.9*pot_size), 90))))
-            elif 2 in two_pair_checks and we_aggress:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.6*pot_size), 80))))
-            elif 3 in two_pair_checks and we_aggress:
-                    return RaiseAction(min(max_raise, max(min_raise, min(int(0.4*pot_size), 50))))  
+            if max_board_suits == 4 or straight_possibilities[4] > 1: # many draws
+                pass
+
+            if 1 in pairs:
+                return RaiseAction(min(max_raise, max(min_raise, int(0.9*pot_size))))
+            elif 2 in pairs:
+                return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size))))
+            elif 3 in pairs:
+                # if we_aggress:
+                    return RaiseAction(min(max_raise, max(min_raise, int(0.4*pot_size))))  
+                # else:
+                #     return CheckAction()
             else:
-                return CheckAction()
+                # if we_aggress:
+                    return RaiseAction(min(max_raise, max(min_raise, int(0.25*pot_size))))
+                # else:
+                #     return CheckAction()
         elif board_rank_occurances[2]==0:
             if max_board_suits == 4 or straight_possibilities[4] > 1: # many draws
-                if we_aggress:
-                    return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
-                else:
-                    return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size+2))))
-
+                return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
             else:
                 return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
 
     elif made_hand == "Pair":
 
-        if max_board_suits == 4 or straight_possibilities[4] > 1:
+        if max_board_suits == 4 or straight_possibilities[4] > 0:
             if 1 in pairs: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
             else: return CheckAction()
 
@@ -169,22 +162,19 @@ def FirstToActStrategy(game_state, round_state, active, we_aggress):
             return CheckAction()
         else:
             if 1 in pairs: # top pair
-                if not we_aggress and pot_size > 100:
-                    return CheckAction()
-                else:
-                    return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
+                return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
             elif 2 in pairs: # second pair
                 if we_aggress or street == 3:
-                    return RaiseAction(min(max_raise, max(min_raise, min(int(0.8*pot_size),40))))
+                    return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
                 else:
                     return CheckAction()
             elif 3 in pairs: # third pair
                 if street <= 4 and we_aggress and pot_size < 80: 
-                    return RaiseAction(min(max_raise, max(min_raise, min(int(0.5*pot_size+2),30))))
+                    return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size+2))))
                 else: 
                     return CheckAction()
             else:
-                if we_aggress and pot_size < 30 and random.random()<0.3: 
+                if we_aggress and pot_size < 30: 
                     return RaiseAction(min(max_raise, max(min_raise, int(0.2*pot_size+2))))
                 else: 
                     return CheckAction()
@@ -212,12 +202,11 @@ def CheckedToStrategy(game_state, round_state, active):
     pot_size = 800 - my_stack - opp_stack
 
     max_board_suits, msuit = helpers.MaxSuitCount(board_cards)
-    total_hand_suits, _ = helpers.MaxSuitCount(board_cards+my_cards)
     straight_possibilities = helpers.StraightsCheck(board_cards)
     straight_draws = helpers.StraightsCheck(board_cards+my_cards)
     flush_draws = helpers.FlushDrawCheck(my_cards+board_cards)
     board_rank_occurances = helpers.RankOccuranceCheck(board_cards)
-    pairs = helpers.PairChecker(my_cards, board_cards)
+    pairs = helpers.PairChecker(board_cards+my_cards)
 
     # --------------- strategy: --------------------
     # We want a strategy of betting with made hands and draws
@@ -241,24 +230,20 @@ def CheckedToStrategy(game_state, round_state, active):
                 if random.random() < 0.15: return RaiseAction(max_raise)
                 else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
 
-            elif 2 in flush_rank:
+            elif 2 in flush_rank or 3 in flush_rank:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
-            elif 3 in flush_rank:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.5*pot_size), 30))))
-            # elif 4 in flush_rank:
-            #     return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size))))
+            elif 4 in flush_rank:
+                return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size))))
             else:
                 return CheckAction()
         elif max_board_suits >= 5:
             if 1 in flush_rank:
                 if random.random() < 0.2: return RaiseAction(max_raise)
                 else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
-            elif 2 in flush_rank:
+            elif 2 in flush_rank or 3 in flush_rank:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
-            elif 3 in flush_rank:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.5*pot_size),30))))
             elif 4 in flush_rank:
-                return RaiseAction(min(max_raise, max(min_raise, int(10))))
+                return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size))))
             else:
                 if random.random() < 0.4: return RaiseAction(min_raise)
                 else: return CheckAction()
@@ -273,15 +258,11 @@ def CheckedToStrategy(game_state, round_state, active):
             return CheckAction()
 
     # ------straight and flush draw checks here???:------ (we need to check if we contribute the straight draws/flush draws)
-    elif max_board_suits == 2 and total_hand_suits == 4:
-        return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
+    elif straight_draws[4] >= 2 and straight_possibilities[4] == 0:
+        return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
 
-    elif straight_draws[4] >= 2 and straight_possibilities[4] == 0 and street < 5 and max_board_suits<4:
-        return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
-
-    elif straight_draws[4] == 1 and straight_possibilities[4] == 0 and street == 3 and max_board_suits<4:
+    elif straight_draws[4] == 1 and straight_possibilities[4] == 0:
         return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size))))
-
     #----------------------------------------------------
     
     elif made_hand == "Trips":
@@ -297,37 +278,23 @@ def CheckedToStrategy(game_state, round_state, active):
             else: return CheckAction()
 
     elif made_hand == "Two Pair":
-        two_pair_checks = helpers.TwoPairValueChecker(my_cards, board_cards) # returns rank of pairs THAT WE CONTRIBUTE
 
-        if max_board_suits == 4 or straight_possibilities[4] > 1: # many draws
-                if 1 in two_pair_checks:
-                    return RaiseAction(min(max_raise, max(min_raise, min(int(0.7*pot_size), 90))))
-                else:
-                    return RaiseAction(min(max_raise, max(min_raise, min(int(0.55*pot_size), 70))))
-            
         if board_rank_occurances[2]>=2:
-            if 1 in two_pair_checks:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.7*pot_size), 90))))
-            elif 2 in two_pair_checks and random.random() < 0.5 and pot_size < 70:
-                return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size))))
+            return CheckAction()
+        elif max_board_suits == 4 or straight_possibilities[4] > 0:
+            if board_rank_occurances[2] == 0 or random.random()<0.15:
+                return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
             else:
                 return CheckAction()
-            
-
-        # elif max_board_suits == 4 or straight_possibilities[4] > 0:
-        #     if board_rank_occurances[2] == 0 or random.random()<0.15:
-        #         return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
-        #     else:
-        #         return CheckAction()
         elif board_rank_occurances[2]==1:
-            if 1 in two_pair_checks:
+            if 1 in pairs:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.9*pot_size))))
-            elif 2 in two_pair_checks:
+            elif 2 in pairs:
                 return RaiseAction(min(max_raise, max(min_raise, int(0.6*pot_size))))
-            elif 3 in two_pair_checks:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.4*pot_size), 30))))  
+            elif 3 in pairs:
+                return RaiseAction(min(max_raise, max(min_raise, int(0.4*pot_size))))  
             else:
-                return RaiseAction(min(max_raise, max(min_raise, min(int(0.25*pot_size), 20))))
+                return RaiseAction(min(max_raise, max(min_raise, int(0.25*pot_size))))
         elif board_rank_occurances[2]==0:
             return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
 
@@ -346,10 +313,10 @@ def CheckedToStrategy(game_state, round_state, active):
             elif 2 in pairs: # second pair
                 return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
             elif 3 in pairs: # third pair
-                if random.random() < 0.8: return RaiseAction(min(max_raise, max(min_raise, min(int(0.5*pot_size+2), 40))))
+                if random.random() < 0.8: return RaiseAction(min(max_raise, max(min_raise, int(0.5*pot_size+2))))
                 else: return CheckAction()
             else:
-                if random.random() < 0.1: return RaiseAction(min(max_raise, max(min_raise, min(int(0.2*pot_size+2), 20))))
+                if random.random() < 0.1: return RaiseAction(min(max_raise, max(min_raise, int(0.2*pot_size+2))))
                 else: return CheckAction()
     else: # high card
         if street == 3 or random.random() < 0.5: return RaiseAction(2)
@@ -374,12 +341,11 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
     pot_size = 800 - my_stack - opp_stack
 
     max_board_suits, msuit = helpers.MaxSuitCount(board_cards)
-    total_hand_suits, _ = helpers.MaxSuitCount(board_cards+my_cards)
     straight_possibilities = helpers.StraightsCheck(board_cards)
     straight_draws = helpers.StraightsCheck(board_cards+my_cards)
     flush_draws = helpers.FlushDrawCheck(my_cards+board_cards)
     board_rank_occurances = helpers.RankOccuranceCheck(board_cards)
-    pairs = helpers.PairChecker(my_cards, board_cards)
+    pairs = helpers.PairChecker(board_cards+my_cards)
 
     # --------------- strategy: --------------------
     if made_hand in ["Straight Flush", "Quads", "Full House"]:
@@ -417,10 +383,14 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
                     else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
                 else: return CallAction()
             elif 2 in flush_rank:
-                if opp_pip < 40 and RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
                 else: return CallAction()
             elif 3 in flush_rank:
-                return CallAction()
+                if opp_pip < 20:
+                    if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                    else: return CallAction()
+                else: # this might be a leak
+                    return CallAction()
             elif 4 in flush_rank:
                 if opp_pip < 35:
                     return CallAction()
@@ -438,17 +408,21 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
                     else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+5))))
                 else: return CallAction()
             elif 2 in flush_rank:
-                if opp_pip < 40 and RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
+                if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
                 else: return CallAction()
             elif 3 in flush_rank:
-                return CallAction()
+                if opp_pip < 20:
+                    if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                    else: return CallAction()
+                else: # this might be a leak
+                    return CallAction()
             elif 4 in flush_rank:
-                if opp_pip < 40:
+                if opp_pip < 50:
                     return CallAction()
                 else:
                     return FoldAction()
             else:
-                if opp_pip < 10:
+                if opp_pip < 40:
                     return CallAction()
                 else:
                     return FoldAction()
@@ -470,17 +444,6 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
             return FoldAction()
 
     # ----- straight and flush draw checks here???: --------
-    elif max_board_suits == 2 and total_hand_suits == 4:
-        if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
-        else: return CallAction()
-
-    elif straight_draws[4] >= 2 and straight_possibilities[4] == 0 and street < 5 and max_board_suits<4:
-        return CallAction()
-
-    elif straight_draws[4] == 1 and straight_possibilities[4] == 0 and street == 3 and max_board_suits<4:
-        return FoldAction()
-
-    #----------------------------------------------------
 
     elif made_hand == "Trips":
 
@@ -499,44 +462,38 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
             else: return FoldAction()
     
     elif made_hand == "Two Pair":
-        two_pair_checks = helpers.TwoPairValueChecker(my_cards, board_cards) # returns rank of pairs THAT WE CONTRIBUTE
 
         if board_rank_occurances[2]>=2:
-            if 1 in two_pair_checks and opp_pip < 80:
-                return CallAction()
-            else:
-                return FoldAction()
+            return FoldAction()
             # --- work starting here ---
-        elif max_board_suits == 4 and straight_possibilities[4] > 1:
-            if board_rank_occurances[2]==0 and opp_pip < 60:
+        elif max_board_suits == 4 and straight_possibilities[4] > 0:
+            if board_rank_occurances[2]==0 and opp_pip < 50:
                 return CallAction()
-            elif 1 in two_pair_checks and opp_pip < 50:
-                return CallAction()
-            elif opp_pip < 25:
+            elif opp_pip < 20:
                 return CallAction()
             else:
                 return FoldAction()
         elif max_board_suits == 4:
             if board_rank_occurances[2]==0 and opp_pip < 75:
                 return CallAction()
-            elif 1 in two_pair_checks and opp_pip < 60:
+            elif 1 in pairs and opp_pip < 60:
                 return CallAction()
-            elif opp_pip < 20:
+            elif opp_pip < 25:
                 return CallAction()
             else:
                 return FoldAction()
         elif board_rank_occurances[2]==1:
-            if 1 in two_pair_checks:
-                # if opp_pip < 100 or random.random() < 0.20:
+            if 1 in pairs:
+                if opp_pip < 100 or random.random() < 0.20:
                     return CallAction()
-                # else:
-                #     return FoldAction()
-            elif 2 in two_pair_checks:
+                else:
+                    return FoldAction()
+            elif 2 in pairs:
                 if opp_pip < 70 or random.random() < 0.1:
                     return CallAction()
                 else:
                     return FoldAction()
-            elif 3 in two_pair_checks:
+            elif 3 in pairs:
                 if opp_pip < 30:
                     return CallAction()
                 else:
@@ -544,14 +501,14 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
             else:
                 return FoldAction()
         elif board_rank_occurances[2]==0:
-            if straight_possibilities[4] > 1:
-                if 1 in two_pair_checks:
+            if straight_possibilities[4] > 0:
+                if 1 in pairs:
                     if opp_pip > 25:
                         return CallAction()
                     else:
-                        if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                        if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
                         else: return CallAction()
-                elif 2 in two_pair_checks:
+                elif 2 in pairs:
                     if opp_pip < 100 or random.random() < 0.2*(2-straight_possibilities[4]):
                         return CallAction()
                     else: return FoldAction()
@@ -561,7 +518,7 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
                     else: return FoldAction()
             else: # no one card draws
                 if opp_pip > 20 and street < 5:
-                    if 1 in two_pair_checks and random.random() < 0.25:
+                    if 1 in pairs and random.random() < 0.25:
                         if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
                         else: return CallAction()
                     else:
@@ -590,14 +547,14 @@ def ICheckedTheyBetStrategy(game_state, round_state, active):
         else: # we make the pair and no one card draws
             if 1 in pairs:
                 # is this too wide?
-                if RaiseAction in legal_actions and opp_pip < 10: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
+                if RaiseAction in legal_actions and opp_pip < 25: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
                 else: return CallAction()
             elif 2 in pairs:
-                if opp_pip < 50 or random.random() < 0.10:
+                if opp_pip < 50 or random.random() < 0.15:
                     return CallAction()
                 else: return FoldAction()
             else:
-                if opp_pip < 7:
+                if opp_pip < 8:
                     return CallAction()
                 else:
                     return FoldAction()
@@ -628,12 +585,11 @@ def BetIntoStrategy(game_state, round_state, active):
     pot_size = 800 - my_stack - opp_stack
 
     max_board_suits, msuit = helpers.MaxSuitCount(board_cards)
-    total_hand_suits, _ = helpers.MaxSuitCount(board_cards+my_cards)
     straight_possibilities = helpers.StraightsCheck(board_cards)
     straight_draws = helpers.StraightsCheck(board_cards+my_cards)
     flush_draws = helpers.FlushDrawCheck(my_cards+board_cards)
     board_rank_occurances = helpers.RankOccuranceCheck(board_cards)
-    pairs = helpers.PairChecker(my_cards, board_cards)
+    pairs = helpers.PairChecker(board_cards+my_cards)
 
     # --------------- strategy: --------------------
     if made_hand in ["Straight Flush", "Quads", "Full House"]:
@@ -671,10 +627,14 @@ def BetIntoStrategy(game_state, round_state, active):
                     else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
                 else: return CallAction()
             elif 2 in flush_rank:
-                if opp_pip < 40 and RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
                 else: return CallAction()
             elif 3 in flush_rank:
-                return CallAction()
+                if opp_pip < 20:
+                    if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                    else: return CallAction()
+                else: # this might be a leak
+                    return CallAction()
             elif 4 in flush_rank:
                 if opp_pip < 35:
                     return CallAction()
@@ -692,17 +652,21 @@ def BetIntoStrategy(game_state, round_state, active):
                     else: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+5))))
                 else: return CallAction()
             elif 2 in flush_rank:
-                if opp_pip < 40 and RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
+                if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
                 else: return CallAction()
             elif 3 in flush_rank:
-                return CallAction()
+                if opp_pip < 20:
+                    if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                    else: return CallAction()
+                else: # this might be a leak
+                    return CallAction()
             elif 4 in flush_rank:
-                if opp_pip < 40:
+                if opp_pip < 50:
                     return CallAction()
                 else:
                     return FoldAction()
             else:
-                if opp_pip < 10:
+                if opp_pip < 40:
                     return CallAction()
                 else:
                     return FoldAction()
@@ -724,17 +688,6 @@ def BetIntoStrategy(game_state, round_state, active):
             return FoldAction()
 
     # ----- straight and flush draw checks here???: --------
-    elif max_board_suits == 2 and total_hand_suits == 4:
-        if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size+2))))
-        else: return CallAction()
-
-    elif straight_draws[4] >= 2 and straight_possibilities[4] == 0 and street < 5 and max_board_suits<4:
-        return CallAction()
-
-    elif straight_draws[4] == 1 and straight_possibilities[4] == 0 and street == 3 and max_board_suits<4:
-        return FoldAction()
-
-    #----------------------------------------------------
 
     elif made_hand == "Trips":
 
@@ -753,44 +706,38 @@ def BetIntoStrategy(game_state, round_state, active):
             else: return FoldAction()
     
     elif made_hand == "Two Pair":
-        two_pair_checks = helpers.TwoPairValueChecker(my_cards, board_cards) # returns rank of pairs THAT WE CONTRIBUTE
 
         if board_rank_occurances[2]>=2:
-            if 1 in two_pair_checks and opp_pip < 80:
-                return CallAction()
-            else:
-                return FoldAction()
+            return FoldAction()
             # --- work starting here ---
-        elif max_board_suits == 4 and straight_possibilities[4] > 1:
-            if board_rank_occurances[2]==0 and opp_pip < 60:
+        elif max_board_suits == 4 and straight_possibilities[4] > 0:
+            if board_rank_occurances[2]==0 and opp_pip < 50:
                 return CallAction()
-            elif 1 in two_pair_checks and opp_pip < 50:
-                return CallAction()
-            elif opp_pip < 25:
+            elif opp_pip < 20:
                 return CallAction()
             else:
                 return FoldAction()
         elif max_board_suits == 4:
             if board_rank_occurances[2]==0 and opp_pip < 75:
                 return CallAction()
-            elif 1 in two_pair_checks and opp_pip < 60:
+            elif 1 in pairs and opp_pip < 60:
                 return CallAction()
-            elif opp_pip < 20:
+            elif opp_pip < 25:
                 return CallAction()
             else:
                 return FoldAction()
         elif board_rank_occurances[2]==1:
-            if 1 in two_pair_checks:
-                # if opp_pip < 100 or random.random() < 0.20:
+            if 1 in pairs:
+                if opp_pip < 100 or random.random() < 0.20:
                     return CallAction()
-                # else:
-                #     return FoldAction()
-            elif 2 in two_pair_checks:
+                else:
+                    return FoldAction()
+            elif 2 in pairs:
                 if opp_pip < 70 or random.random() < 0.1:
                     return CallAction()
                 else:
                     return FoldAction()
-            elif 3 in two_pair_checks:
+            elif 3 in pairs:
                 if opp_pip < 30:
                     return CallAction()
                 else:
@@ -798,14 +745,14 @@ def BetIntoStrategy(game_state, round_state, active):
             else:
                 return FoldAction()
         elif board_rank_occurances[2]==0:
-            if straight_possibilities[4] > 1:
-                if 1 in two_pair_checks:
+            if straight_possibilities[4] > 0:
+                if 1 in pairs:
                     if opp_pip > 25:
                         return CallAction()
                     else:
-                        if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(0.8*pot_size))))
+                        if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size))))
                         else: return CallAction()
-                elif 2 in two_pair_checks:
+                elif 2 in pairs:
                     if opp_pip < 100 or random.random() < 0.2*(2-straight_possibilities[4]):
                         return CallAction()
                     else: return FoldAction()
@@ -815,7 +762,7 @@ def BetIntoStrategy(game_state, round_state, active):
                     else: return FoldAction()
             else: # no one card draws
                 if opp_pip > 20 and street < 5:
-                    if 1 in two_pair_checks and random.random() < 0.25:
+                    if 1 in pairs and random.random() < 0.25:
                         if RaiseAction in legal_actions: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
                         else: return CallAction()
                     else:
@@ -844,18 +791,17 @@ def BetIntoStrategy(game_state, round_state, active):
         else: # we make the pair and no one card draws
             if 1 in pairs:
                 # is this too wide?
-                if RaiseAction in legal_actions and opp_pip < 10: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
+                if RaiseAction in legal_actions and opp_pip < 25: return RaiseAction(min(max_raise, max(min_raise, int(pot_size+2))))
                 else: return CallAction()
             elif 2 in pairs:
-                if opp_pip < 50 or random.random() < 0.10:
+                if opp_pip < 50 or random.random() < 0.15:
                     return CallAction()
                 else: return FoldAction()
             else:
-                if opp_pip < 7:
+                if opp_pip < 8:
                     return CallAction()
                 else:
                     return FoldAction()
-
     else: # we have high card
         if opp_pip <= 5 and high_card_small_float_range[parsed_hand] == 1:
             return CallAction()

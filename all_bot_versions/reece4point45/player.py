@@ -124,15 +124,6 @@ class Player(Bot):
             elif self.my_bankroll > -((NUM_ROUNDS-self.hand_num+1)*1.5+2) and self.my_bankroll < -((NUM_ROUNDS-self.hand_num+1)*1.5-8): # if they havent guarenteed win but are almost at threshold, we start shoving
                 if RaiseAction in legal_actions: return RaiseAction(max_raise)
                 else: return CallAction()
-                        
-            # elif self.my_bankroll < -((NUM_ROUNDS-self.hand_num+1)*1.5+2) and self.my_bankroll < -1000:
-            #     if RaiseAction in legal_actions: return RaiseAction(max_raise)
-            #     else: return CallAction()
-            
-
-            elif self.my_bankroll < -((NUM_ROUNDS-self.hand_num+1)*1.5+2) and (NUM_ROUNDS-self.hand_num+1)<30:
-                if RaiseAction in legal_actions: return RaiseAction(max_raise)
-                else: return CallAction()
 
             elif my_pip == 1: # in small blind, implement opening ranges
                 action = preflop_strategy.OpeningStrategy(game_state, round_state, active)
@@ -156,11 +147,9 @@ class Player(Bot):
                 if FoldAction in legal_actions: return FoldAction() # if win is secured, check fold
                 else: return CheckAction()
             
-            # elif self.my_bankroll > -((NUM_ROUNDS-self.hand_num+1)*1.5+2) and self.my_bankroll < -((NUM_ROUNDS-self.hand_num+1)*1.5-8): # if they havent guarenteed win but are almost at threshold, we start shoving
-            #     if RaiseAction in legal_actions: return RaiseAction(max_raise)
-            #     else: return CallAction()
-
-
+            elif self.my_bankroll > -((NUM_ROUNDS-self.hand_num+1)*1.5+2) and self.my_bankroll < -((NUM_ROUNDS-self.hand_num+1)*1.5-8): # if they havent guarenteed win but are almost at threshold, we start shoving
+                if RaiseAction in legal_actions: return RaiseAction(max_raise)
+                else: return CallAction()
 
             elif my_pip == 0 and opp_pip == 0: # if you start or they checked to you
                 if active == 1: # means we start betting round
@@ -178,18 +167,13 @@ class Player(Bot):
                 action = postflop_strategy.IBetTheyRaisedStrategy(game_state, round_state, active)
 
         print(f'thing:{type(action).__name__}')
-        if street == 0:
-            self.we_aggress = 0
         if type(action).__name__ == "RaiseAction":
             self.we_aggress = 1
         elif type(action).__name__ == "CallAction":
             self.we_aggress = 0
-        
-        # else:
-        #     return action
+        else:
+            return action
         print(f'we_aggress:{self.we_aggress}')
-
-        
         # elif type(action).__name__ == "CheckAction":
         #     self.we_agress = 0
         # action = FoldAction()

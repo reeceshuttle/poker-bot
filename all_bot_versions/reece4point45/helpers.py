@@ -119,12 +119,7 @@ def StraightsCheck(cards):
     return ans
 
 
-# ans1=StraightsCheck(['Qd', 'Ks', '9s'])
-# ans2=StraightsCheck(['Ac', 'Th', 'Qd', 'Ks', '9s'])
-# import pdb; pdb.set_trace()
-
-
-def PairChecker(my_cards, board_cards):
+def PairChecker(cards):
     """
     checks what pairs you have and returns their ranks.
     For example, if you have a single top pair, this will return [1].
@@ -134,15 +129,6 @@ def PairChecker(my_cards, board_cards):
     found = set()
     non_pairs = []
     pairs = []
-
-    board_found = set()
-    cleansed_board_cards = []
-    for card in board_cards:
-        if card[0] not in board_found:
-            board_found.add(card[0])
-            cleansed_board_cards.append(card[0])
-
-    cards = my_cards+cleansed_board_cards
     for card in cards:
         if card[0] in found:
             # pair found
@@ -152,8 +138,8 @@ def PairChecker(my_cards, board_cards):
     for pair in pairs:
         ans = 1
         non_pairs = []
-        for card in board_cards:
-            if card[0] != pair and card[0] not in non_pairs:
+        for card in cards:
+            if card[0] != pair:
                 non_pairs.append(card[0])
         for card in non_pairs:
             if ranks.index(card) > ranks.index(pair):
@@ -161,39 +147,10 @@ def PairChecker(my_cards, board_cards):
         answers.append(ans)
     return answers
 
-ans = PairChecker(['7c', '3c'], ['Ad', 'Ac', 'Kd', 'Kd', '7s'])
-print(ans)
-
-# ans = PairChecker(['Qc', '3c'], ['Ad', 'Qc', 'Kd', '7d', '7s'])
-# print(ans)
-
 
 def TwoPairValueChecker(my_cards, board_cards):
     """
     this function is to be used only when we have two pair when there is at least 1 pair on the board.
-
-    ['Ac', '8c'], ['As', '2c', '2d', '3d', '3s']
-    board_pairs_final:[2], all_pairs_final:[14]
-
-    ['2c', '8c'], ['As', 'Ac', '2d', '3d', '3s']
-    board_pairs_final:[], all_pairs_final:[]
-
-    ['2c', '8c'], ['As', 'Ac', '2d', '3d', '7s']
-    board_pairs_final:[], all_pairs_final:[2]
-
-    ['Ac', '8c'], ['As', '8c', '2d', '3d', '3s']
-    board_pairs_final:[3], all_pairs_final:[14, 8]
-
-    one overpair to the double pair: if all_pairs_final[0]>board_pairs_final[0]
-
-    we provide pair but it doesnt play: both are []
-
-    We provide a pair to single paired board: board_pairs_final:[], all_pairs_final:[value of provided pair]
-
-    two overpairs to single paired board:
-
-    heuristic to use:
-    max in all is bigger than max in board
     """
     mapping = {'2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9, 'T':10, 'J':11, 'Q':12, 'K':13, 'A': 14}
     mine = [mapping[card[0]] for card in my_cards]
@@ -222,44 +179,23 @@ def TwoPairValueChecker(my_cards, board_cards):
         if card in board_pairs:
             board_pairs_final.remove(card)
             all_pairs_final.remove(card)
-    # import pdb; pdb.set_trace()
-    # we want to normalize all_pairs_final
-    # we return answers, which returns numbers corresponding to pairs that we provide. If we dont help, it is []. If we provide top pair, it has a 1.
-    answers = []
-    for pair in all_pairs_final:
-        ans = 1
-        non_pairs = []
-        for card in board_cards:
-            if card[0] != pair and mapping[card[0]] not in non_pairs:
-                non_pairs.append(mapping[card[0]])
-        print(non_pairs)
-        for card in non_pairs:
-            if card > pair:
-                ans += 1
-        answers.append(ans)
-    # import pdb; pdb.set_trace()
-    return answers
+    return board_pairs_final, all_pairs_final
 
 
-ans = TwoPairValueChecker(['7c', '3c'], ['Ad', 'Ac', 'Kd', 'Kd', '7s'])
-print(ans)
 
-# ans = TwoPairValueChecker(['Ac', '8c'], ['As', '2c', '2d', '3d', '3s'])
-# print("['Ac', '8c'], ['As', '2c', '2d', '3d', '3s']")
-# print(ans)
-# ans = TwoPairValueChecker(['2c', '8c'], ['As', 'Ac', '2d', '3d', '3s'])
-# print("['2c', '8c'], ['As', 'Ac', '2d', '3d', '3s']")
-# print(ans)
-# ans = TwoPairValueChecker(['2c', '8c'], ['As', 'Ac', '2d', '3d', '7s'])
-# print("['2c', '8c'], ['As', 'Ac', '2d', '3d', '7s']")
-# print(ans)
-# ans = TwoPairValueChecker(['Ac', '8c'], ['As', '8c', '2d', '3d', '3s'])
-# print("['Ac', '8c'], ['As', '8c', '2d', '3d', '3s']")
-# print(ans)
 
-# ans = TwoPairValueChecker(['2d', '2c'], ['As', '8c', '4d', '3d', '3s'])
-# print("['2d', '2c'], ['As', '8c', '4d', '3d', '3s']")
-# print(ans)
+a, b = TwoPairValueChecker(['Ac', '8c'], ['As', '2c', '2d', '3d', '3s'])
+print("['Ac', '8c'], ['As', '2c', '2d', '3d', '3s']")
+print(f"board_pairs_final:{a}, all_pairs_final:{b}")
+a, b = TwoPairValueChecker(['2c', '8c'], ['As', 'Ac', '2d', '3d', '3s'])
+print("['2c', '8c'], ['As', 'Ac', '2d', '3d', '3s']")
+print(f"board_pairs_final:{a}, all_pairs_final:{b}")
+a, b = TwoPairValueChecker(['2c', '8c'], ['As', 'Ac', '2d', '3d', '7s'])
+print("['2c', '8c'], ['As', 'Ac', '2d', '3d', '7s']")
+print(f"board_pairs_final:{a}, all_pairs_final:{b}")
+a, b = TwoPairValueChecker(['Ac', '8c'], ['As', '8c', '2d', '3d', '3s'])
+print("['Ac', '8c'], ['As', '8c', '2d', '3d', '3s']")
+print(f"board_pairs_final:{a}, all_pairs_final:{b}")
 
 
 
@@ -316,4 +252,32 @@ def MyFlushRank(my_cards, board_cards):
 # ans2 = MyFlushRank(['9c', '7s'], ['2h', 'Tc', 'Jc', 'Qd', '5s', 'Qc', 'Kc', 'Ac'])
 # ans3 = MyFlushRank(['Tc', '7s'], ['2h', '9c', 'Jc', 'Qd', '5s', 'Qc', 'Kc', 'Ac'])
 # ans4 = MyFlushRank(['8c', '7s'], ['2h', 'Tc', 'Jc', 'Qd', '5s', 'Qc', 'Kc', '2c'])
-  
+
+
+def StraightDrawCheck(cards):
+    """
+    checks for straight draws, returns number of straight draws found.
+    """
+    raise NotImplementedError
+
+
+def StraightBoardCheck(cards):
+    """
+    checks if there is a straight on the board.
+    """
+    raise NotImplementedError
+    
+
+def FourFlushBoardCheck(cards):
+    """
+    checks if there is a four flush on the board.
+    """
+    raise NotImplementedError
+
+
+def FlushBoardCheck(cards):
+    """
+    checks if there is a flush on the board.
+    """
+    raise NotImplementedError
+    
